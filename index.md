@@ -137,7 +137,7 @@ This is a rough analysis of all the requirements.
 
 This is one place I struggle with, expect this estimate to be *especially* rough. It's hard to predict how much time you can really devote to a project, as the work doesn't happen in a bubble. I would be seeking a lot of advice here before having any confidence in my results.
 
-### Bare Mininmums:
+### Bare Minimums:
 
 With some lead time to design and plan, perhaps get some extra eyes on the process, I am confident that an MVP could be completely tested and available within approximately 6 months or less of the epics being finalized and the above requirements / debates being resolved - assuming that we were really going for **MVP**. I think a team of 5-7 could handle the workload, assuming we had the skills needed. The first thing would be modelling the database, and providing test data for the other workstreams to take advantage of.
 
