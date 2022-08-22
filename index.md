@@ -23,7 +23,8 @@ Overall, for the estimates and technologies, I know I am leaning on my area of k
         LastUpdated: datetime // Help us determine when to invalidate or regenerate data
     ```
 
-    ## About ScheduledDepartureTimeMinutes ##
+    **About ScheduledDepartureTimeMinutes**
+
     Storing the data as minutes from midnight gives us some convenience when it comes to presenting the information accurately for the departing time zone, since the schedules don't refer to an actual date, and rather refer to a time in the day of any given date. I have more on this in my notes below.
     
     ```
@@ -86,45 +87,45 @@ In *any* of these suggestions, I would be looking much more deeply into what our
 As for the initial 11 requirements, we can meet them all with a few very large grains of salt.
 This is a rough analysis of all the requirements.
 
-- [x] We are only considering departing flights.
+[x] We are only considering departing flights.
     - I am going to operate under the assumption that despite only being concerned about departing flights (which might be described as flights where the 'Actual Departure Time' occurs in the past), that we will actually want to be capable of providing these 'historical' flight details. For example, a customer is running 1 hour late for their flight. They look up the information, they should see that the flights Actual Departure Time is 1 hour ago, instead of just getting some future flight, or a missing record.
-- [x] There is a flight schedule, which defines when the regularly scheduled flights occur.
+[x] There is a flight schedule, which defines when the regularly scheduled flights occur.
     - This sounds like our "source of truth" and needs to be highly accessible even if the rest of the system is suffering.
-- [x] The airlines keep the schedule up to date when they make changes.
+[x] The airlines keep the schedule up to date when they make changes.
     - This doesn't seem to be a requirement we can exactly fulfil ourselves - we can provide them the tools to do so, but my assumption is that if they can keep it up to date, they will.
     - One assumption I am working on here is that there aren't changes coming from other sources - eg, the airport or government, for example. I don't know if this would be more of an issue than just permissions, but if there is a requirement for this, we should find out ahead of the demand.
-- [x] The flight display has a list of upcoming departures.
+[x] The flight display has a list of upcoming departures.
     - There are a whole host of details to be determined here, for example, branding, logos, overall styles and interface designs. We should be cognizant of these things as we build this solution - I would propose that we design around a "theme-able" interface, such that airports or airlines that wished to do so could customize aspects of the appearance of the boards in some way. Whether this is part of the MVP is debatable, but we will be saving ourselves some pain by simply designing with this in mind.
     - There is an assumption that the systems hosting the boards at the airport don't have a specific software requirement - so if they are limited in some way, we should explore that before we begin.
     - I am also assuming the flight boards at the airport should be always available, even if the rest of the system is under duress. If the boards at the airport are out, this could cause panic, and we should design the system to be network/fault tolerant within the limits that are allowed by the law/airports.
     - I am assuming this MVP will not be localized, but it shouldn't involve a lot of consideration to localize this aspect of the app.
-- [x] Each flight has the following properties:…
+[x] Each flight has the following properties:…
     - I am assuming based on the example data in req. #2 "NZ0128 Flies to MEL at 6:30AM Mon, Wed, Fri" that we will need to differentiate status by a given instance of a flight - EG, if the Wednesday flight to MEL is delayed to 7:00AM, the Friday flights Estimated Departure will still display as "6:30 AM."
     - Another assumption here is that the airlines will be able to provide this level of detail.
     - The only significant business logic described is in Requirement h.1: A departure gate is only assigned once a flight transitions to "Boarding" - other concepts, such as "A Cancelled flight should not have an Actual Departure Time" or other rules are not stated. We will likely desire such validations, but we should gather those before we build an interface for the Airlines.
     - What is the impact to departure time with regards to Time Zones, Daylight Savings, and other globalized considerations? I am going to leave this off the table for now, but we would need to analyze the requirements here. For this design, I am going to assume we will *always* present the time relative to the departing location, in local time. I am also going to assume that a 6:30 AM flight leaves at 6:30 AM whether it is daylight savings or not.
     - I am going to assume here that we can use the standard international codes to describe the destination as well as where it is departing from. (EG, it is not landing on some secret base or private airfield, these are all going from airport->airport)
     - Departure Time and scheduling. This is a big can of worms. There are a myriad of options that are likely available to the airlines, for example, a flight may run frequently between two close locations - and thus make multiple trips per day at differing times. A flight might be scheduled every other day, meaning the cycle only repeats on a fortnight (Mon,Wed,Fri,Sun,Tue,Thu,Sat) or even more bizarre and challenging to detail programmatically. To avoid becoming mired in all these details for the exercise, I am going to assume a given flight allows for a maximum of 1 departure per day, and a "flight schedule" is limited to a single departure time and multiple days. We could easily support additional options, but I would really just be guessing here as to what the limits of that would be.
-- [x] The Ticker Board in the airport will get information from a Web API.
+[x] The Ticker Board in the airport will get information from a Web API.
     - I will assume these are systems are all self-contained, and will run our software.
-- [x] The flight information needs to be viewable over the internet.
+[x] The flight information needs to be viewable over the internet.
     - This is an interesting requirement, and very ambiguous - will we be providing this interface? What requirements are needed for querying the data? Is there any requirement for a user identity before sharing flight information?
 
     - I am going to operate under the ***(big)*** assumption that a given Airline, or other third party (such as a travel agency, google plugin, or the like) will be interfacing with our API, and we will NOT be providing an end-user interface for this feature. 
         
     - Building out an interface for end-users would likely require a few more people involved and some minor infrastructure tweaks (CDN placement etc...) to meet that need, as well as incorporate more localization considerations.
 
-- [x] The internet-accessible view must deal with very large traffic spikes.
+[x] The internet-accessible view must deal with very large traffic spikes.
     - I'll consider high-traffic demands in general, but getting some samples would let us better understand the need here.
     - It's likely that we will get two distinct request types - those from the tickerboards would be broad queries, and those from individuals would likely be specific flight numbers. The data being retrieved is very lightweight, and doesn't require significant processing to present, so we gain a ton of ground with caching. With some anticipatory caching and refresh, we could handle very significant spikes.
-- [x] Passengers can subscribe to a particular flight and receive push notifications when its details change.
+[x] Passengers can subscribe to a particular flight and receive push notifications when its details change.
     - This sounds fun!
     - Depending on requirements around data storage and what we provide here, we need to consider GDPR and other privacy behaviors. Most push notification systems give users the ability to manage the requests through their devices, via STOP or other message. The feature as described is straightforward - if we assume we isolate this data and provide a means to delete our records of user phone information via our website or other legally required requests.
     - Localization isn't being considered here either - I would need to research the impact this would have and how systems like this are commonly localized.
     - This feature would be the easiest to cut and implement down the road - it builds on the other functions without being a requirement to any of them, so it is unique in that way.
-- [x] Airlines must not be able to update the flight information of other airlines
+[x] Airlines must not be able to update the flight information of other airlines
     - We will need some kind of authentication & authorization mechanism, I would implement SSO with our application and allow the airlines to manage access.
-- [x] The interface to update flight information must not be accessible from the internet.
+[x] The interface to update flight information must not be accessible from the internet.
     - This is an interesting requirement. I would be very curious as to the why behind this requirement - for example, if there is a legal requirement, it likely will include some kind of guidelines or expectations beyond simply forbidding access via "the internet" which is subject to interpretation. If this requirement comes from some other source , I would want to explore what the problem that we were attempting to solve was.
     
         It feels very much like a security requirement - again, if such a requirement exists, it should be based on some tangible behavior or experience we wish to avoid, which might help us make a more sensible requirement. If, for example, the source of the concern is something like "We cannot risk usernames and passwords allowing non-airline individuals to manage flights," then in this case we could implement sign-on solutions that may require certificates to be present, in addition to a airline-managed identity, two-factor authentication, and more. These solutions may allay the concerns and allow us to generate a simpler and more maintainable solution.
