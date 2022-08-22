@@ -1,5 +1,5 @@
-title: Xero Flight Board Exercise documentation
-description: Description
+title: Xero Flight Board Exercise
+description: August 21 2022
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-relative-links
