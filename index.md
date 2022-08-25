@@ -2,6 +2,9 @@
 ## Overview
 So looking into this deliverable, I tried to break down the requirements into two categories: Requirements that might demand a specific architecture or technology, and requirements that I know can be resolved through the application of various technologies.
 
+# Note
+This file will be taken down 31/8/22 to avoid sharing the solution with other applicants.
+
 ## Requirements and Assumptions
 I am going to break down my initial analysis of each one of the 11 requirements listed.
 
