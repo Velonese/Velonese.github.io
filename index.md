@@ -1,3 +1,7 @@
+# Note
+
+This file will be taken down 31/8/22 to avoid sharing the solution with other applicants.
+
 # Opening Thoughts
 
 This request really comes across in a relatively simple way, but exploring each point reveals more and more unanswered questions. This was a real wolf in sheep's clothing. The Tickerboard itself has a whole host of potential features involved, and is ripe for feature creep if we dove right in with such a bare-bones requirement.
