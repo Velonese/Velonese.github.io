@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Velonese.Github.IO</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0c0c0c;
+    --fg: #d8d8d8;
+    --dim: #8c8c8c;
+    --accent: #e8b04b;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg); }
+  body {
+    margin: 0;
+    padding: 16px;
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.5 ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace;
+  }
+  main { max-width: 46rem; margin: 0 auto; }
+  #output > div { white-space: pre-wrap; overflow-wrap: anywhere; margin: 0 0 0.25rem; }
+  .echo { color: var(--dim); }
+  form { display: flex; align-items: center; gap: 0.5rem; margin: 0; }
+  .caret { color: var(--dim); }
+  form:focus-within .caret { color: var(--accent); }
+  input {
+    flex: 1;
+    min-width: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--fg);
+    font: inherit;
+    caret-color: var(--accent);
+  }
+</style>
+</head>
+<body>
+<main>
+  <div id="output" role="log"></div>
+  <form id="prompt" autocomplete="off">
+    <span class="caret" aria-hidden="true">&gt;</span>
+    <input id="cmd" type="text" aria-label="Command" autocapitalize="off" autocorrect="off" spellcheck="false" autofocus>
+  </form>
+  <noscript><p>This page needs JavaScript.</p></noscript>
+</main>
+
+<script>
+(() => {
+  'use strict';
+
+  const output = document.getElementById('output');
+  const form = document.getElementById('prompt');
+  const input = document.getElementById('cmd');
+
+  const print = (text, cls) => {
+    const line = document.createElement('div');
+    if (cls) line.className = cls;
+    line.textContent = text;
+    output.appendChild(line);
+    window.scrollTo(0, document.body.scrollHeight);
+  };
+
+  // Commands are looked up by their first word. Each handler receives the
+  // rest of the line as an array of words, and prints its own response.
+  //   COMMANDS.look = args => print('...');
+  const COMMANDS = {};
+
+  const run = line => {
+    const [verb, ...args] = line.toLowerCase().split(/\s+/);
+    const handler = Object.prototype.hasOwnProperty.call(COMMANDS, verb) ? COMMANDS[verb] : null;
+    if (handler) handler(args);
+    else print("I don't know that command.");
+  };
+
+  // ----------------------------------------------------------------- input
+
+  const history = [];
+  let cursor = 0;
+
+  form.addEventListener('submit', e => {
+    e.preventDefault();
+    const line = input.value.trim();
+    input.value = '';
+    if (!line) return;
+    print('> ' + line, 'echo');
+    history.push(line);
+    cursor = history.length;
+    run(line);
+  });
+
+  // Up / down arrows step through earlier commands.
+  input.addEventListener('keydown', e => {
+    if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (cursor > 0) input.value = history[--cursor];
+    } else if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (cursor < history.length - 1) {
+        input.value = history[++cursor];
+      } else {
+        cursor = history.length;
+        input.value = '';
+      }
+    }
+  });
+
+  // Clicking anywhere on the page focuses the prompt, unless selecting text.
+  document.addEventListener('click', () => {
+    if (!String(window.getSelection())) input.focus();
+  });
+
+  print('Welcome to Velonese.Github.IO');
+  print('You are west of a white house. There is a mailbox here.');
+})();
+</script>
+</body>
+</html>

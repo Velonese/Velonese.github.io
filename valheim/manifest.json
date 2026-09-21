@@ -1,0 +1,771 @@
+{
+  "packName": "Jokulhlaup",
+  "packVersion": "1.0.0",
+  "archive": {
+    "url": "pack-499b65ad2640.zip",
+    "sha256": "499b65ad2640425ae911fa07a8bc29016b809dfde4279096e01610b594da6dc5",
+    "size": 5751360
+  },
+  "files": [
+    {
+      "path": "plugins/Advize-PlantEasily-2.2.0/Advize_PlantEasily.dll",
+      "sha256": "62f92e8c23ddf3ec6c15f077f981f25048dbfe9803eddd39d071fca7362b8224",
+      "size": 76288,
+      "version": "2.2.0",
+      "guid": "advize.PlantEasily"
+    },
+    {
+      "path": "plugins/Advize-PlantEasily-2.2.0/CHANGELOG.md",
+      "sha256": "a1f28b916a6f8899e34db130e12ee72d29ff6c12a5f243f7a362750124a0a0b9",
+      "size": 11577
+    },
+    {
+      "path": "plugins/Advize-PlantEasily-2.2.0/icon.png",
+      "sha256": "d797e4b72b683632c8c546889f068f1d5437a8e2b0500775d56d726c6ebc90f8",
+      "size": 150557
+    },
+    {
+      "path": "plugins/Advize-PlantEasily-2.2.0/manifest.json",
+      "sha256": "30500be1862debf467591bfa3f0aaebedafb8a549395e52937782093011791e5",
+      "size": 470
+    },
+    {
+      "path": "plugins/Advize-PlantEasily-2.2.0/README.md",
+      "sha256": "fb16dc9b7e8eb78d958a5b6329228bfc2761a5e360a097bfbb8f3d744e5209be",
+      "size": 6364
+    },
+    {
+      "path": "plugins/Advize-PlantEverything-1.21.2/Advize_PlantEverything.dll",
+      "sha256": "0969f4f8b949eb7ce4f271166ad63167f408f75657c47761e8f91acd379698b7",
+      "size": 258560,
+      "version": "1.21.2",
+      "guid": "advize.PlantEverything"
+    },
+    {
+      "path": "plugins/Advize-PlantEverything-1.21.2/CHANGELOG.md",
+      "sha256": "ae8ba26ce1e9a2a5721a867e238067f405a18aa033178b5ae1a037c8f5f0477c",
+      "size": 16795
+    },
+    {
+      "path": "plugins/Advize-PlantEverything-1.21.2/icon.png",
+      "sha256": "62249b5ca0d20e925eff8153c7f0bc429c39c5618648812f2ec6c982447b6f87",
+      "size": 137513
+    },
+    {
+      "path": "plugins/Advize-PlantEverything-1.21.2/manifest.json",
+      "sha256": "8f9002e43539532f49ed6169487307d02ac670e830c7a2cb8261bb92b61d028e",
+      "size": 472
+    },
+    {
+      "path": "plugins/Advize-PlantEverything-1.21.2/README.md",
+      "sha256": "6f737a8967362cb091b587c8537164a139e331586be45a7c05fcc42f4ed64a16",
+      "size": 13750
+    },
+    {
+      "path": "plugins/aedenthorn-HoeRadius-0.5.1/plugins/HoeRadius.dll",
+      "sha256": "9e42939093be6bfe36c0ebffdc9284471f146124727257931ef010e323eab21b",
+      "size": 11776,
+      "version": "0.5.1",
+      "guid": "aedenthorn.HoeRadius"
+    },
+    {
+      "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/AzuCraftyBoxes.dll",
+      "sha256": "ddd6a5bac7f6d41a46eddf06b62ae41b68704a210e8f45b31e496cd5245bb8a2",
+      "size": 2282496,
+      "version": "1.8.19",
+      "guid": "Azumatt.AzuCraftyBoxes"
+    },
+    {
+      "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/CHANGELOG.md",
+      "sha256": "530b68dbfe50c22c68f3555e93a92c8017c8e4a1c9b7fb9c11e0a513449ce049",
+      "size": 64681
+    },
+    {
+      "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/icon.png",
+      "sha256": "b22594a12dfc83825475ef9dcd2fa7e1d71f823edae5edf4b1e45deb9222fe22",
+      "size": 65420
+    },
+    {
+      "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/manifest.json",
+      "sha256": "cb22bd5170a4b974fe9cd46961c2d9a82b296fe19ef699dc964c771e6dd92a21",
+      "size": 418
+    },
+    {
+      "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/README.md",
+      "sha256": "9342c128a22d9ac2a40def643e3e31269ca812aa973b638abb1512ac90572047",
+      "size": 16544
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/CHANGELOG.md",
+      "sha256": "13fa8b9226c5c064bb0172859baa64382d60d6ef304f38c017d4caca838c5b09",
+      "size": 4334
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/icon.png",
+      "sha256": "b723fac2ce6a391e9628b9461457547b795c92556a0b6677021c714a2c4670f9",
+      "size": 75856
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/LocalizationExample.zip",
+      "sha256": "1da74e280c81e8cadef7f5766ff017c2f3ed68e5dd5e838f08cfd716c2416385",
+      "size": 280
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/manifest.json",
+      "sha256": "54fb299763706950b5a8799c93eaccf282d9b28a8033e782920508c5a0270d9b",
+      "size": 392
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/README.md",
+      "sha256": "627cac5bb45e3a60efc03bff95c374a975ff29db982e902e451a0654c0fef844",
+      "size": 2225
+    },
+    {
+      "path": "plugins/blacks7ar-VikingsDoSwim-1.4.2/VikingsDoSwim.dll",
+      "sha256": "61db2b0d3761a0e65b57fdf5acd2382019a4c1b1471809509ab6a279aa8c63f2",
+      "size": 469504,
+      "version": "1.4.2",
+      "guid": "blacks7ar.VikingsDoSwim"
+    },
+    {
+      "path": "plugins/blacks7ar-WieldEquipmentWhileSwimming-1.1.4/CHANGELOG.md",
+      "sha256": "a09c793daae4e75b6e6b38a4b4c3e42f1307ec6f7e46ce76b489be7d708c16a4",
+      "size": 1217
+    },
+    {
+      "path": "plugins/blacks7ar-WieldEquipmentWhileSwimming-1.1.4/icon.png",
+      "sha256": "95bdb053759b4876bca69a725787ec4f3b7e6ad79a984dfaa0f637460293cd19",
+      "size": 81480
+    },
+    {
+      "path": "plugins/blacks7ar-WieldEquipmentWhileSwimming-1.1.4/manifest.json",
+      "sha256": "cd0485d58335d4e75c16b58e5f0256a28950df32c532d422760d1eec256f4c73",
+      "size": 282
+    },
+    {
+      "path": "plugins/blacks7ar-WieldEquipmentWhileSwimming-1.1.4/README.md",
+      "sha256": "2954ae2f3019bd80a5d4299ec73ba058235112c8a3cd13516707421f718dc2b9",
+      "size": 545
+    },
+    {
+      "path": "plugins/blacks7ar-WieldEquipmentWhileSwimming-1.1.4/WieldEquipmentWhileSwimming.dll",
+      "sha256": "5184600fcba4c96fc4ce1445910b12d3b9a232f0c156b0ec0e642f05429d5d8c",
+      "size": 55296,
+      "version": "1.1.4",
+      "guid": "blacks7ar.WieldEquipmentWhileSwimming"
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/CHANGELOG.md",
+      "sha256": "2c5381d30df18968c66912787eb862cf6f77e54d90d0d50be8089f152f29a0a0",
+      "size": 985
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/ClearTheAir.dll",
+      "sha256": "d40212cd52ac962127f16bcebe65bade4ce0e60493ea2c52f4f22638d24809e5",
+      "size": 7680,
+      "version": "1.2.3.0",
+      "guid": "dev.crystal.cleartheair"
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/ConfigSync_Readme.txt",
+      "sha256": "d315a11f565817d6271ab66676537eec13ae34ffb0ff70d6d7020b1c3627860f",
+      "size": 808
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/icon.png",
+      "sha256": "7c56c19b54518988d0c444ee846cca621f18e62efddf635f06cdd087bcd6217b",
+      "size": 157528
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/manifest.json",
+      "sha256": "c9de7e12509f4a9d890d051ebd65f87022da9ee6152a5bac5f23f3937665d89a",
+      "size": 311
+    },
+    {
+      "path": "plugins/Crystal-ClearTheAir-1.2.3/README.md",
+      "sha256": "2c6ed01319b384e9db2b4b3dae42d7e18475425b054a37472a7c1f44bfb1c8f5",
+      "size": 968
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/CHANGELOG.md",
+      "sha256": "a3c22e1487049a4483a6dda2eb63ce5befcf9f8de261f98e9f6418f929a206c1",
+      "size": 8550
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/icon.png",
+      "sha256": "fab7d24ea73cd5194101f486150f5d110ea9a9fb63eecf52b10f4041c95b5b87",
+      "size": 58598
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/LICENSE",
+      "sha256": "11787fe389337c83955e7aae58a54c690788d6f89561cf14e87f31daf28e5235",
+      "size": 1092
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/manifest.json",
+      "sha256": "b5a1d13675a390b0e9b84a0ab0214ceca7c8697faa7d4a5913e136919a7f1a40",
+      "size": 310
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/QuickStackStore.dll",
+      "sha256": "4296be5e9fc8941be1079a1c979f97fcdfda79bca9287f29686e4bbc9e4f0400",
+      "size": 538624,
+      "version": "1.4.15",
+      "guid": "goldenrevolver.quick_stack_store"
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/README.md",
+      "sha256": "4f09d497cf8f370046ed96fbcabd616b2955e2507c7524e4e696a76cf6f5fcbb",
+      "size": 12251
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Chinese.json",
+      "sha256": "920a3f7dac53e42e45a36fbb0acaf186fc119f5724f78bbf05a50a19e36fd34c",
+      "size": 1479
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.English.json",
+      "sha256": "c0e39e22afc2a2547ac6d36d838cec57ecfd8ad847c025295e56dcc3a05e462f",
+      "size": 1458
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.French.json",
+      "sha256": "79991f19fd67e32c9e07002b5d304554a6308b995d05cb6ce0e411378485da26",
+      "size": 1605
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Italian.json",
+      "sha256": "635e6fb8df3b711541a112d7b37ff324e393dc583d95cea9a450964f859f6168",
+      "size": 1610
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Korean.json",
+      "sha256": "2ac7dec1f85f47021c242fd83a98f3a75246f07940f65bafc825091cf3e696c7",
+      "size": 1752
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Polish.json",
+      "sha256": "fc1aee697765cfe7facf7054f6f3802fdbe79fb8256d4d53fd6df82956b8fa98",
+      "size": 1670
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Portuguese_Brazilian.json",
+      "sha256": "162e7127236a34c96e9edf225ad70f860d36719045bad18da99f2f296e2dc7ae",
+      "size": 1591
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Russian.json",
+      "sha256": "fceeea57808fc8953fbd1954d5fc0bdb3e4adf7ebde32095b221fddaf0e47687",
+      "size": 2289
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Swedish.json",
+      "sha256": "dd26f5bbb37370059a4abe440ed45ea287e0117215797dea5583014eac9f9608",
+      "size": 1520
+    },
+    {
+      "path": "plugins/Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15/Translations/QuickStackStore.Ukrainian.json",
+      "sha256": "ca801f39248ba0ab36fe476efb56e356e61205886113304e92caeedf7516f5de",
+      "size": 2150
+    },
+    {
+      "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/CHANGELOG.md",
+      "sha256": "21bb742be8baf0f565a6d90d5fbe7aced92d35d5acc767579f09eb4690a41825",
+      "size": 7163
+    },
+    {
+      "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/icon.png",
+      "sha256": "a122a01220fc6ed8da76b05bb370135a186e6837d15fd17b7df0513db687ee4e",
+      "size": 92159
+    },
+    {
+      "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/manifest.json",
+      "sha256": "ba66c2bde5ed78eb47841b816446e0aca6644c9da4a016cb30b06c9a0700f45a",
+      "size": 383
+    },
+    {
+      "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/README.md",
+      "sha256": "630393f34ae3b0b5fcbeb49a08b0f85b9c80e3fda5b1e3fe63415a22e8a1a185",
+      "size": 3751
+    },
+    {
+      "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/plugins/EquipmentAndQuickSlots.dll",
+      "sha256": "b08d791cc1324fc24c5aff591784ce867a8179d5b887797372506bb8626c6d9a",
+      "size": 416256,
+      "version": "3.1.3",
+      "guid": "randyknapp.mods.equipmentandquickslots"
+    },
+    {
+      "path": "plugins/shudnal-AutoPinSigns-2.0.1/AutoPinSigns.dll",
+      "sha256": "7efecfe59c300a5f509ed56a31d9c02825a8b4c206cbe5ab43e0718996d8b492",
+      "size": 68608,
+      "version": "2.0.1",
+      "guid": "shudnal.AutoPinSigns"
+    },
+    {
+      "path": "plugins/shudnal-AutoPinSigns-2.0.1/CHANGELOG.md",
+      "sha256": "cae9a5f3d00a5a33f838ae175542b9040cdb2f1329ef275d927b57e085d8751d",
+      "size": 2216
+    },
+    {
+      "path": "plugins/shudnal-AutoPinSigns-2.0.1/icon.png",
+      "sha256": "cf22a1950478be49d3e931adf9b5006d3f723e61f2aa682f25b58fcabb62c2ac",
+      "size": 113679
+    },
+    {
+      "path": "plugins/shudnal-AutoPinSigns-2.0.1/manifest.json",
+      "sha256": "a3396099fdb3636e0af4a213a39dd37dd11dac950154f53f9db5162adeb38966",
+      "size": 337
+    },
+    {
+      "path": "plugins/shudnal-AutoPinSigns-2.0.1/README.md",
+      "sha256": "639a0cffbb57dffc022b66db97a2aabdf91b7d1b7e344b1732178574854bd75e",
+      "size": 8147
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/CHANGELOG.md",
+      "sha256": "7c918cfe0b877c56c7c2e0096056d1bb380e58d22b807713a97dc87a0011e63e",
+      "size": 10511
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.dll",
+      "sha256": "68f059e2e16a38eee7512c3e2e0263f6f0abe23e899d1776ae8ea5c48540169b",
+      "size": 242176,
+      "version": "1.0.8"
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.Plugin.dll",
+      "sha256": "2afd0adb6f5ef94a6d838c3a07d1707562cdc6bbcfe904ec1ebf2989703e9651",
+      "size": 7680,
+      "version": "1.0.8",
+      "guid": "_shudnal.ConditionalConfigSync"
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.xml",
+      "sha256": "3c24e082256c5dbeac522b44afc2cafd5d73918d64735a5169af166274c5c9bf",
+      "size": 65777
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/icon.png",
+      "sha256": "555a06cef15aa933cbf0eceb5edb132b221339a43c1236d3018579805a64325a",
+      "size": 119346
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/manifest.json",
+      "sha256": "bcfabc24e386dbcbb6d8d6c0c1dcc0759ecad19457f82e48087342ad969dda69",
+      "size": 432
+    },
+    {
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/README.md",
+      "sha256": "95ac12510c09770cf7962fe953a1ef71b7a0bb87564f0e8c1d77ccaab6d81fe7",
+      "size": 34330
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/CHANGELOG.md",
+      "sha256": "6c580dd9c18a54a9de6c4fb69473b64d33db846fefbfee9d8cb5fd42b72f79f7",
+      "size": 4869
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/icon.png",
+      "sha256": "b638e6f5d8c6a6bc70a588b5eb5358b34b3d94b1bcedec9102aef5ca69445794",
+      "size": 80523
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/manifest.json",
+      "sha256": "ebe42c89403d61c4723d2b1b1380644c15e61716a6f566f096ea8970cf1de4e0",
+      "size": 608
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/Nomap Printer.English.json",
+      "sha256": "c3e9c23575d9b67e3bda06ae97f29c45b9242e78d857c89f625f22c497fe1641",
+      "size": 371
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/NomapPrinter.dll",
+      "sha256": "cb3638745951535ead1b2931284ca3f7aaa7fb872be9c257ebb53a8dccaf1818",
+      "size": 140800,
+      "version": "1.5.4",
+      "guid": "shudnal.NomapPrinter"
+    },
+    {
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/README.md",
+      "sha256": "ce48a4aabf773aa0f79798af5bc40cc6e631cd563ad55f0acefdea6cbd681948",
+      "size": 10447
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BetterCarts-1.1.1/BetterCarts.dll",
+      "sha256": "b647395b0c1f893acabe1c9305b202b020ce11a828691fd23e9aa6e1db71d0d8",
+      "size": 61952,
+      "version": "1.1.1",
+      "guid": "TastyChickenLegs.BetterCarts"
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BetterCarts-1.1.1/icon.png",
+      "sha256": "ad4a75af10b32dcf3ceb1d5ddc30cf90c459094d1d386b44c15096d58cf560e6",
+      "size": 18034
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BetterCarts-1.1.1/manifest.json",
+      "sha256": "90fa6c08898ac1d9c89265d53238bbc4dbb2d756d55b02314f2facf0f79ab6ef",
+      "size": 326
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BetterCarts-1.1.1/README.md",
+      "sha256": "a445215dc8d15bb8f70208664227c9e5404ffb9e2499f2756dc5327b197d2ba9",
+      "size": 3023
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BlastFurnaceTakesAll-1.1.0/BlastFurnaceTakesAll.dll",
+      "sha256": "1fa1b33aa6f6d340043cb5fb5385350f82cfe670780aeb434cee42ba02f0b027",
+      "size": 7168,
+      "version": "1.0.9",
+      "guid": "tastychickenlegs.BlastFurnaceTakesAll"
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BlastFurnaceTakesAll-1.1.0/icon.png",
+      "sha256": "0c2afe1bf366e37c7cbd78463091a6b41384970dd4cc982e98b33e4def08f24a",
+      "size": 139001
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BlastFurnaceTakesAll-1.1.0/manifest.json",
+      "sha256": "3730dbe32c8b56d1888a134ffc6f2fd7956206898f86f9378f974d6dfdd90e67",
+      "size": 331
+    },
+    {
+      "path": "plugins/TastyChickenLegs-BlastFurnaceTakesAll-1.1.0/README.md",
+      "sha256": "8d7549829f0d949dd9c4e8fafcbc950f0dcc0c34f4e6e61f2cac405d9186db4a",
+      "size": 1172
+    },
+    {
+      "path": "plugins/TastyChickenLegs-CandlesForever-1.0.5/CandlesForever.dll",
+      "sha256": "24cd561b2c3008167f26482ff9a2808c6702d41b614a891831b8282daa6bdabc",
+      "size": 56320,
+      "version": "1.0.5",
+      "guid": "TastyChickenLegs.CandlesForever"
+    },
+    {
+      "path": "plugins/TastyChickenLegs-CandlesForever-1.0.5/icon.png",
+      "sha256": "bdf71412530a9f0bc6afe628eda93601da0ee4b962363982629c75f7a9495f6f",
+      "size": 130726
+    },
+    {
+      "path": "plugins/TastyChickenLegs-CandlesForever-1.0.5/manifest.json",
+      "sha256": "c63144d2924d8d09dcb89060002fde2c3dadc9e48b1d07ccbe3b9ec2954616c0",
+      "size": 283
+    },
+    {
+      "path": "plugins/TastyChickenLegs-CandlesForever-1.0.5/README.md",
+      "sha256": "794bb548bcbafd961071aafaf636ab423e8d8885dffaba821bd5f8b5bc03131b",
+      "size": 2190
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TimedTorchesStayLit-1.4.0/icon.png",
+      "sha256": "a9f7bc7042ed479b5ddfdc078cb4a44ef6304b8216586c07eb82af2809decde2",
+      "size": 15710
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TimedTorchesStayLit-1.4.0/manifest.json",
+      "sha256": "7828d959cad900339acf26b7a2cfeac428f12797d764430d337cf695bf80759f",
+      "size": 278
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TimedTorchesStayLit-1.4.0/README.md",
+      "sha256": "14211f233ddfa0d2ba8f7542287103995eadac3d379422cedd1f6e9edc9c6a46",
+      "size": 5890
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TimedTorchesStayLit-1.4.0/TimedTorchesStayLit.dll",
+      "sha256": "aa8b40c2b361e933a61147709678684d44f7ae8aa8dba9b05e0556bd45ffea73",
+      "size": 65536,
+      "version": "1.4.0",
+      "guid": "Tastychickenlegs.TimedTorchesStayLit"
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/icon.png",
+      "sha256": "e17593e4992c576719c4417419b19e6e0510dd8e14178b602bc503b49ce76fa5",
+      "size": 124110
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/manifest.json",
+      "sha256": "fae00443ceb493601cd066ba4cedd954ac68ccd5f9d0df0d18d9bbd81ee32a9c",
+      "size": 350
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/README.md",
+      "sha256": "a25a629979cd9067659dc3a4e9aade2ec6c46fdcb1746303bc03ee0ac71bf859",
+      "size": 3262
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/TreesReborn.dll",
+      "sha256": "7ec4769e9bd3b462c457027ca70f2a6194aaa1c8b60f4cab519faca025fef313",
+      "size": 60928,
+      "version": "1.1.3",
+      "guid": "TastyChickenLegs.TreesReborn"
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_Plant_all_trees.json",
+      "sha256": "b67abebaf745f5cc556076d0e7ee6d8cd065d04e9e8ce14c542208a01a9019f9",
+      "size": 308
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_Plant_Everything.json",
+      "sha256": "b51ffac80f44ab6d5c588833b804e371efce84c7036ff7e527fb119a18c5944f",
+      "size": 308
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_PlantingPlus.json",
+      "sha256": "02a6d625f690e3fb7693c0e6a73f9e33e7280f8f7e080fd7e068ad8e9d9c16f6",
+      "size": 298
+    },
+    {
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict.json",
+      "sha256": "02a6d625f690e3fb7693c0e6a73f9e33e7280f8f7e080fd7e068ad8e9d9c16f6",
+      "size": 298
+    },
+    {
+      "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/CHANGELOG.md",
+      "sha256": "fd40b3dabc51ba5d8f34f00ab06eb0aa3935c5f3dad085fa90dea8bf724c4c5c",
+      "size": 1232
+    },
+    {
+      "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/ForsakenPowersPlusRemastered.dll",
+      "sha256": "c584859a25c7d90cec3cfaab0fd77539f6528134f0b6babe373ce2a630a2f265",
+      "size": 66048,
+      "version": "2.0.4",
+      "guid": "Turbero.ForsakenPowersPlusRemastered"
+    },
+    {
+      "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/icon.png",
+      "sha256": "92cf16503521932f040549aeb08525af4169b16cc20344e0e3985c0f38cebd82",
+      "size": 85524
+    },
+    {
+      "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/manifest.json",
+      "sha256": "c74f5e960e10e62db8b86a4ea043a458e2be52a37c681ca5395f0f72cf268520",
+      "size": 459
+    },
+    {
+      "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/README.md",
+      "sha256": "3ade802edaa47679e9cce7ccebe42179dd05e823bf805e74871838cef0860ea2",
+      "size": 3174
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/CHANGELOG.md",
+      "sha256": "89cd94454d33248f21db87f031ddae30abeb306c047e4f4fb541244974df2229",
+      "size": 51076
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/icon.png",
+      "sha256": "a26b769c9170e42d7ba346866848d25925d4e833181d4bc3fa6c39c95544bb0c",
+      "size": 107943
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/manifest.json",
+      "sha256": "fd2e210631f12aa517a495cb131d7a8e02680e35bd7a76e3f54a983cdf409595",
+      "size": 464
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/README.md",
+      "sha256": "8a391fabbbf57c3c9c982da13b69485455c37f45ec2d22297481d8a17f700a32",
+      "size": 10145
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.dll",
+      "sha256": "51d32cfbe2db5c203ffb8855c155d185d572dda72db49066905679d8ec5e3c46",
+      "size": 516608,
+      "version": "2.30.0",
+      "guid": "com.jotunn.jotunn"
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.pdb",
+      "sha256": "63c47a0766436e33f91b746c1ee6245d2eec14bd2c56383f7b0b7b045685211e",
+      "size": 169480
+    },
+    {
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.xml",
+      "sha256": "9825a1441790b54459c5f08ada4d26032bec1523ce1d337581bdf39d053291a3",
+      "size": 501055
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/icon.png",
+      "sha256": "0849cc8ba477d0934878222c8fb20866fbac3e6504643bc26045eb081a5fe305",
+      "size": 9671
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/LICENSE.txt",
+      "sha256": "daea8b7f1b2bab48ea12ad50b0ce91634669d99d7dd0cb64aed8dffeeef69ed3",
+      "size": 1110
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/manifest.json",
+      "sha256": "ea4eeda333644700250fd0f65c578778b805cf207532b615555234960db3c8e6",
+      "size": 323
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/README.md",
+      "sha256": "1d793a7022cec07ae82fb8c8e1e4f8d175f6a1d6618bc1a8b98f062fce7c542d",
+      "size": 1116
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/plugins/YamlDotNet.dll",
+      "sha256": "9172f0758ed76963e0ede3b5ca9a1fb5b82f64c7e7a92cb3a6de39efa933a668",
+      "size": 291840,
+      "version": "16.3.0"
+    },
+    {
+      "path": "plugins/ValheimModding-YamlDotNet-16.3.1/plugins/YamlDotNetDetector.dll",
+      "sha256": "db5a75085f60d69a05979af303d6b0f1db15b1d5d84c77f606d876547ef1f482",
+      "size": 6656,
+      "version": "1.0.0",
+      "guid": "com.ValheimModding.YamlDotNetDetector"
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.0.0/CHANGELOG.md",
+      "sha256": "aec74a93dfbeff64d99ee63dc9e2c3c7007ff2c0731bcf6aa5517ed078de025b",
+      "size": 343
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.0.0/icon.png",
+      "sha256": "94bf56fe71729e1b0c5694e6a73286c465a044de4480bf3f9adf63bc17b0098d",
+      "size": 4964
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.0.0/manifest.json",
+      "sha256": "3a15a0e1cbb54a98f564820cf46f0324b17ebe6f450573862481bbd2b6b63714",
+      "size": 261
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.0.0/README.md",
+      "sha256": "02d9d7c2410046c9fc2f686c9e4eb8dbd70f5d1bd12366efdff37e56486695cc",
+      "size": 5091
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.0.0/plugins/BuyfrostGates.dll",
+      "sha256": "0e6bea8ed918c732af780361327b7eecd8d5c68852da0cfdd845e8bf90b110d8",
+      "size": 32768,
+      "version": "1.0.0",
+      "guid": "velonese.buyfrostgates"
+    },
+    {
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.0/CHANGELOG.md",
+      "sha256": "7824846315c5cd5d28f5800cfe3a1f8615794b7d6e1993fe7b0781b6df1f983b",
+      "size": 245
+    },
+    {
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.0/manifest.json",
+      "sha256": "e1b319d638038e2e44851db1cddb1c548b9f569732ac1dbb494b02c66a971ee3",
+      "size": 317
+    },
+    {
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.0/README.md",
+      "sha256": "0dd53b02806a0cc36def4de86bab4916b8d09481a76113782f2f349911e6d149",
+      "size": 4278
+    },
+    {
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.0/plugins/HalsteinsUnpacker.dll",
+      "sha256": "144c1129c11c357b731b0e30e92c0ef17d6bf2ebad632f77aa1dd54304158ee7",
+      "size": 51200,
+      "version": "1.0.0",
+      "guid": "velonese.halsteinsunpacker"
+    },
+    {
+      "path": "plugins/Velonese-HungryFish-1.0.1/plugins/HungryFish.dll",
+      "sha256": "cd150fb544298100549bcace6d25fad6f5c408896a197503f6f544058326d6c7",
+      "size": 5120,
+      "version": "1.0.1",
+      "guid": "com.hungryfish.DEADBEEF-DEAD-CAFE-FEED-DEFACEDECODE"
+    },
+    {
+      "path": "plugins/Velonese-StronkPiles-1.0.0/CHANGELOG.md",
+      "sha256": "1ceb7333457c829e7aecab2e1c01f7ab5866d6fa8e74865a237e7ce857b61ba9",
+      "size": 134
+    },
+    {
+      "path": "plugins/Velonese-StronkPiles-1.0.0/manifest.json",
+      "sha256": "c35c79edeec2854d19b51b208c3d8212ef23065cd8550c50bacd1395031b1bf5",
+      "size": 278
+    },
+    {
+      "path": "plugins/Velonese-StronkPiles-1.0.0/README.md",
+      "sha256": "7b4481116768038aa6d4df3f19700cdabcf2b8b935ac02b901e207a70f3c04a6",
+      "size": 1519
+    },
+    {
+      "path": "plugins/Velonese-StronkPiles-1.0.0/plugins/StronkPiles.dll",
+      "sha256": "62963b8a3b738efb8d3ba7434b94a2ec7b3fe23a779407e95575472303970ea0",
+      "size": 11776,
+      "version": "1.0.0",
+      "guid": "velonese.stronkpiles"
+    },
+    {
+      "path": "config/advize.PlantEverything.cfg",
+      "sha256": "b14a7f60317ea589cb517fb59ce27e96f9f86a86f04a83ffec9c67d3aee8adaa",
+      "size": 24262
+    },
+    {
+      "path": "config/Azumatt.AzuCraftyBoxes.cfg",
+      "sha256": "6f542f3250a8f691d4a9657486607e3b96e97ce4a2a91c4f09f4376b028e2e49",
+      "size": 12956
+    },
+    {
+      "path": "config/Azumatt.AzuCraftyBoxes.yml",
+      "sha256": "e84d592e35d675c50781ab1a779d7622406a02f46223eeef29be5e2443ac09f8",
+      "size": 9531
+    },
+    {
+      "path": "config/blacks7ar.VikingsDoSwim.cfg",
+      "sha256": "23bfdedbf3afcb55c0e560c1909f3ae853c5cc47ddffce3592afe262f22a864b",
+      "size": 16527
+    },
+    {
+      "path": "config/blacks7ar.WieldEquipmentWhileSwimming.cfg",
+      "sha256": "eff0687994b77a7b07d0d86186c29003fa181ab2201a39dfa8f9b9282a29363a",
+      "size": 914
+    },
+    {
+      "path": "config/dev.crystal.cleartheair.cfg",
+      "sha256": "630eb207940f237de26e97325ee55adea1e3650c85190efca7125fa1c9012b07",
+      "size": 290
+    },
+    {
+      "path": "config/goldenrevolver.quick_stack_store.cfg",
+      "sha256": "009f22c7ec56c4ec02fb001f56b06d933c029633eda9672ee851db22fccc273a",
+      "size": 21665
+    },
+    {
+      "path": "config/randyknapp.mods.equipmentandquickslots.cfg",
+      "sha256": "612bbffbc06440ef851aace11915e45e27f1796f4212eb21a72d8bd3a857b7cf",
+      "size": 3102
+    },
+    {
+      "path": "config/shudnal.AutoPinSigns.cfg",
+      "sha256": "1a7307fdc6f866aa968f7eb45842f4308d51a99980f5c7f83c17ece42a8af607",
+      "size": 1571
+    },
+    {
+      "path": "config/shudnal.NomapPrinter.cfg",
+      "sha256": "fe71ff7d9b92fc8cc55ae15bcf7177ad2129f874e6acf869a5083424c59650fd",
+      "size": 9948
+    },
+    {
+      "path": "config/TastyChickenLegs.CandlesForever.cfg",
+      "sha256": "e19c919bc69d9728b51236733d5ae42db62e3e39a8a7aef0f02a9d751d0997d9",
+      "size": 601
+    },
+    {
+      "path": "config/Tastychickenlegs.TimedTorchesStayLit.cfg",
+      "sha256": "5694efc9da1ec4c169b19dd68da32800e688f7741d6d0457d5c0804e8339fe53",
+      "size": 4342
+    },
+    {
+      "path": "config/velonese.buyfrostgates.cfg",
+      "sha256": "ed81d60ffb9cd968499345b8447f0a3286effbdc373364365bf7cecce27ae4c4",
+      "size": 11820
+    },
+    {
+      "path": "config/PlantEverything/advize.PlantEverything.cfg",
+      "sha256": "2b7e4174916ce24d236dba13990006af649e3161ea9234d51710677e2a318034",
+      "size": 24272
+    }
+  ]
+}
