@@ -2,9 +2,9 @@
   "packName": "Jokulhlaup",
   "packVersion": "1.0.0",
   "archive": {
-    "url": "pack-499b65ad2640.zip",
-    "sha256": "499b65ad2640425ae911fa07a8bc29016b809dfde4279096e01610b594da6dc5",
-    "size": 5751360
+    "url": "pack-0a301cf6344f.zip",
+    "sha256": "0a301cf6344fe37464f7023a4342eaac071b041b5f2c6e9bdca310b6b965af80",
+    "size": 5674419
   },
   "files": [
     {
@@ -575,11 +575,6 @@
       "size": 516608,
       "version": "2.30.0",
       "guid": "com.jotunn.jotunn"
-    },
-    {
-      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.pdb",
-      "sha256": "63c47a0766436e33f91b746c1ee6245d2eec14bd2c56383f7b0b7b045685211e",
-      "size": 169480
     },
     {
       "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.xml",
