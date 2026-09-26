@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.4",
+  "packVersion": "1.1.5",
   "archive": {
-    "url": "pack-f3ac704ba138.zip",
-    "sha256": "f3ac704ba1383339442ac2134dc309e15d01b23f7acdd1c02f94addf637ef666",
-    "size": 5676972
+    "url": "pack-11422c9b181e.zip",
+    "sha256": "11422c9b181e2e3893d8b9cf8b4abab810066d64a8b449d74c52fe2b1d887bf5",
+    "size": 5688496
   },
   "files": [
     {
@@ -694,13 +694,18 @@
     },
     {
       "path": "config/advize.PlantEverything.cfg",
-      "sha256": "b14a7f60317ea589cb517fb59ce27e96f9f86a86f04a83ffec9c67d3aee8adaa",
-      "size": 24262
+      "sha256": "47c8a6b1ba4c8160e6eb64695a49c53eac535f108912881e988a18c4d0426445",
+      "size": 24875
+    },
+    {
+      "path": "config/aedenthorn.HoeRadius.cfg",
+      "sha256": "3ca90b533a10e8d90fd11ee6ba98664f44a64e3251a8973627b488779135a14a",
+      "size": 14691
     },
     {
       "path": "config/Azumatt.AzuCraftyBoxes.cfg",
-      "sha256": "6f542f3250a8f691d4a9657486607e3b96e97ce4a2a91c4f09f4376b028e2e49",
-      "size": 12956
+      "sha256": "1ffabaffae8fddd6bbfb339511461387551eda772d755baaec7c2b2ab4795cd7",
+      "size": 13081
     },
     {
       "path": "config/Azumatt.AzuCraftyBoxes.yml",
@@ -709,58 +714,98 @@
     },
     {
       "path": "config/blacks7ar.VikingsDoSwim.cfg",
-      "sha256": "23bfdedbf3afcb55c0e560c1909f3ae853c5cc47ddffce3592afe262f22a864b",
-      "size": 16527
+      "sha256": "67a217073dcff3ee419df426759c7d443752cabb3bfb4f5a9a158cfc5c95b245",
+      "size": 16724
     },
     {
       "path": "config/blacks7ar.WieldEquipmentWhileSwimming.cfg",
-      "sha256": "eff0687994b77a7b07d0d86186c29003fa181ab2201a39dfa8f9b9282a29363a",
-      "size": 914
+      "sha256": "c2574377704b0620aa6a3ee7607b37062646555e119bb756282944db13b54d37",
+      "size": 917
     },
     {
       "path": "config/dev.crystal.cleartheair.cfg",
-      "sha256": "630eb207940f237de26e97325ee55adea1e3650c85190efca7125fa1c9012b07",
-      "size": 290
+      "sha256": "77e75b9da237b4c8c66f50d323ce564ed66bf484882df96f953dadce31d21d60",
+      "size": 334
     },
     {
       "path": "config/goldenrevolver.quick_stack_store.cfg",
-      "sha256": "009f22c7ec56c4ec02fb001f56b06d933c029633eda9672ee851db22fccc273a",
-      "size": 21665
+      "sha256": "3051745ca0eec0493388a2d65c0d4e63925c92cea17ef517ece7d4a6cd1cdd80",
+      "size": 21737
     },
     {
       "path": "config/randyknapp.mods.equipmentandquickslots.cfg",
-      "sha256": "612bbffbc06440ef851aace11915e45e27f1796f4212eb21a72d8bd3a857b7cf",
-      "size": 3102
+      "sha256": "9aae3cb336d531d2b06176be304383e90769f89289b3aa1b64a24b7c439df91c",
+      "size": 7222
     },
     {
       "path": "config/shudnal.AutoPinSigns.cfg",
-      "sha256": "1a7307fdc6f866aa968f7eb45842f4308d51a99980f5c7f83c17ece42a8af607",
-      "size": 1571
+      "sha256": "546d3d37a75cf00e425999a7bd0ecd61522b365ab83384c0ebcc9a4f15698c0c",
+      "size": 7124
     },
     {
       "path": "config/shudnal.NomapPrinter.cfg",
-      "sha256": "fe71ff7d9b92fc8cc55ae15bcf7177ad2129f874e6acf869a5083424c59650fd",
-      "size": 9948
+      "sha256": "f4e1343d4620c514d993dfcf0b1e3e3c4fa9b556433f57d14b122b3e89723179",
+      "size": 11732
+    },
+    {
+      "path": "config/TastyChickenLegs.BetterCarts.cfg",
+      "sha256": "5559b8f489f44e1293a89d892a071fff43bbab3430ddfc22b7536ca66c81cab5",
+      "size": 6600
     },
     {
       "path": "config/TastyChickenLegs.CandlesForever.cfg",
-      "sha256": "e19c919bc69d9728b51236733d5ae42db62e3e39a8a7aef0f02a9d751d0997d9",
+      "sha256": "7e49fa7a3600f7275950aeeaffef22dada3f33fa8c4b2cae9747ab6dedf11163",
       "size": 601
     },
     {
       "path": "config/Tastychickenlegs.TimedTorchesStayLit.cfg",
-      "sha256": "5694efc9da1ec4c169b19dd68da32800e688f7741d6d0457d5c0804e8339fe53",
+      "sha256": "92314fea18fd7f7a49ff2eca507a82c2c48f1f2d8cdf8b06914604847d2ac6e7",
       "size": 4342
     },
     {
+      "path": "config/TastyChickenLegs.TreesReborn.cfg",
+      "sha256": "82ff15ab75f20b6fdce35c0740a0e166eab152be6b0be19697ac9ee2044f1f06",
+      "size": 1402
+    },
+    {
+      "path": "config/Turbero.ForsakenPowersPlusRemastered.cfg",
+      "sha256": "f3f9dd18a5dd4b2b313863aa0a0a3ccbba84b142765821386b32c6741ca8855a",
+      "size": 11485
+    },
+    {
       "path": "config/velonese.buyfrostgates.cfg",
-      "sha256": "ed81d60ffb9cd968499345b8447f0a3286effbdc373364365bf7cecce27ae4c4",
-      "size": 11820
+      "sha256": "a2571c3a6c2fe715cb1b15a87226f0cd1e59da143fced0460aab33019271e6e7",
+      "size": 11822
+    },
+    {
+      "path": "config/velonese.stronkpiles.cfg",
+      "sha256": "a93a12bedfc110d6ced90cab7c784cea90ef3818b4be6a3afbdec07ee6702108",
+      "size": 976
     },
     {
       "path": "config/PlantEverything/advize.PlantEverything.cfg",
       "sha256": "2b7e4174916ce24d236dba13990006af649e3161ea9234d51710677e2a318034",
       "size": 24272
+    },
+    {
+      "path": "config/shudnal.ConditionalConfigSync/ConditionalConfigSync.Debug.cfg",
+      "sha256": "1d4cb3f9111ce4747d980b7badb43260fab044b6ab5e1c696cf97834af21800b",
+      "size": 133
+    },
+    {
+      "path": "config/shudnal.ConditionalConfigSync/ConditionalConfigSync.HiddenConfigs.cfg",
+      "sha256": "b994dad78b07ec4edb3d23a765682f4ef649bd8e60e26cde9ee384178069185a",
+      "size": 211
+    },
+    {
+      "path": "config/shudnal.ConditionalConfigSync/ConditionalConfigSync.ModRequirements.cfg",
+      "sha256": "de9d3cefbdb2f386dac509da77a351bedb7e06798975d0883d784b76c497a6a7",
+      "size": 352
+    },
+    {
+      "path": "config/shudnal.ConditionalConfigSync/ConditionalConfigSync.SyncPolicy.cfg",
+      "sha256": "97c158094bb47f8af04c32d71229b7b327c200aa4497df8fbd31359f8633eb3b",
+      "size": 354
     }
   ]
 }
