@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.5",
+  "packVersion": "1.1.6",
   "archive": {
-    "url": "pack-11422c9b181e.zip",
-    "sha256": "11422c9b181e2e3893d8b9cf8b4abab810066d64a8b449d74c52fe2b1d887bf5",
-    "size": 5688496
+    "url": "pack-036cfb5d28a2.zip",
+    "sha256": "036cfb5d28a2597453a5984459fca1a921679c26d1e2e6064d4f57cd43b67738",
+    "size": 5686812
   },
   "files": [
     {
@@ -642,25 +642,25 @@
       "guid": "velonese.buyfrostgates"
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.5/CHANGELOG.md",
-      "sha256": "9cda8525a85e16f6e459d27880e543daec3a018f67128e7c03b437093600d07d",
-      "size": 928
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.0/CHANGELOG.md",
+      "sha256": "231ab66a0feba513cf9393fc24becbaf1702f4e50c076c4a506f2be2b4d69010",
+      "size": 1117
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.5/manifest.json",
-      "sha256": "5f976b7c03822d86a80de445543ff5560018482ea70709cc0619c8319164ee70",
-      "size": 317
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.0/manifest.json",
+      "sha256": "dfafe4302fb66a35afe966851101ddbe4a4acceb3188a5eae9a7fc55ce968fb2",
+      "size": 290
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.5/README.md",
-      "sha256": "0dd53b02806a0cc36def4de86bab4916b8d09481a76113782f2f349911e6d149",
-      "size": 4278
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.0/README.md",
+      "sha256": "e1fabe3e61026903f6c78cef047b92021c4078e04921e9b23e61e5e36664fdd8",
+      "size": 3795
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.5/plugins/HalsteinsUnpacker.dll",
-      "sha256": "1eddec479ed88f8ccda8f9f30f3b26860062869f125125fc8361a29730b842af",
-      "size": 53760,
-      "version": "1.0.5",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.0/plugins/HalsteinsUnpacker.dll",
+      "sha256": "fcd9e2f2cda784e1240c7cacdbf030c2725c47e85f313ccfd6564057e588dacc",
+      "size": 50176,
+      "version": "1.1.0",
       "guid": "velonese.halsteinsunpacker"
     },
     {
