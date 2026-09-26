@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.0",
+  "packVersion": "1.1.1",
   "archive": {
-    "url": "pack-12729a028f4b.zip",
-    "sha256": "12729a028f4b4fedf64605695fdf2c4a9eafbd0ffca3fb4749dc63a16b385012",
-    "size": 5676476
+    "url": "pack-d5a4ac81f534.zip",
+    "sha256": "d5a4ac81f534a0591b0ce894156d3156524e6f7f97985859a28521bfe9ab6bb0",
+    "size": 5676838
   },
   "files": [
     {
@@ -642,25 +642,25 @@
       "guid": "velonese.buyfrostgates"
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.1/CHANGELOG.md",
-      "sha256": "3c6dea6be0145d1a9df84f01ac684e5830ecd758dd4312dd954bc8b1bbd69475",
-      "size": 376
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.2/CHANGELOG.md",
+      "sha256": "b0316c8c117fcb4ea80432fe401d542661e6cf6dc66640e3428fed60ab26c490",
+      "size": 489
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.1/manifest.json",
-      "sha256": "7ccc9f87ec835a512e9098e7d0c2be860f3eb5e0034ba256403da37aa40b08be",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.2/manifest.json",
+      "sha256": "779897cb1b6b2878f8bc8e4d06178b26728f5acc837beb566132482da5b17240",
       "size": 317
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.1/README.md",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.2/README.md",
       "sha256": "0dd53b02806a0cc36def4de86bab4916b8d09481a76113782f2f349911e6d149",
       "size": 4278
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.1/plugins/HalsteinsUnpacker.dll",
-      "sha256": "4a2c419a978032759f59a1cc711da6443f46adcb8f65cf0134ca0487b50e95e7",
-      "size": 52736,
-      "version": "1.0.1",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.0.2/plugins/HalsteinsUnpacker.dll",
+      "sha256": "d8ec02871a30c1879eb833116f1a5ebb15b468f4ceca812f0779058a3e9f193f",
+      "size": 53760,
+      "version": "1.0.2",
       "guid": "velonese.halsteinsunpacker"
     },
     {
