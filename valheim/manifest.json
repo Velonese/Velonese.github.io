@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.7",
+  "packVersion": "1.1.8",
   "archive": {
-    "url": "pack-242caac5417f.zip",
-    "sha256": "242caac5417f091565b7f75b196d7df47ce48001529b165440b02f674f2cfef3",
-    "size": 5687059
+    "url": "pack-fec19301b143.zip",
+    "sha256": "fec19301b1433600525dc2f0d3bc63ab44373a27a559d3d03e768883f9f24de0",
+    "size": 5701663
   },
   "files": [
     {
@@ -691,6 +691,28 @@
       "size": 11264,
       "version": "1.0.0",
       "guid": "velonese.stronkpiles"
+    },
+    {
+      "path": "plugins/Velonese-TrophyHunter-1.0.0/CHANGELOG.md",
+      "sha256": "2d1b266f8d26a9c7614748bbbe0e0c5c84e6555c7067a764fb9e2d3fe5d95d0c",
+      "size": 314
+    },
+    {
+      "path": "plugins/Velonese-TrophyHunter-1.0.0/manifest.json",
+      "sha256": "815d2708adb124e91d4cd605cd4b50005175ca064e8fdd3f95754d2006241d1f",
+      "size": 346
+    },
+    {
+      "path": "plugins/Velonese-TrophyHunter-1.0.0/README.md",
+      "sha256": "ea1c9fadfcc12caa274d712f3b25c70c6b316cfa441c53b97ff79a0a2b0ca6a6",
+      "size": 2947
+    },
+    {
+      "path": "plugins/Velonese-TrophyHunter-1.0.0/plugins/TrophyHunter.dll",
+      "sha256": "d1dd9a3590484cb5c8d4eecf512374423a659717fca7ae5bb0812b3278499f5c",
+      "size": 25600,
+      "version": "1.0.0",
+      "guid": "velonese.trophyhunter"
     },
     {
       "path": "config/advize.PlantEverything.cfg",
