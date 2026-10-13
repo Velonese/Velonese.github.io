@@ -1,63 +1,63 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.10",
+  "packVersion": "1.1.11",
   "archive": {
-    "url": "pack-57811cbfbf08.zip",
-    "sha256": "57811cbfbf08569a13a1f3974d55c93e1c6b80f7f7e35c13dc906b9eb98525ad",
-    "size": 5692588
+    "url": "pack-d65166320c1f.zip",
+    "sha256": "d65166320c1fb291bb2d0561e8237b971912a00ef530adae5f6e3b9a368555f9",
+    "size": 5674352
   },
   "files": [
     {
-      "path": "plugins/Advize-PlantEasily-2.3.0/Advize_PlantEasily.dll",
-      "sha256": "d5ad697931c97e86dbc72afa3b9bcac90f3ae249c3a50fe7ad94302c4c2b8416",
-      "size": 83456,
-      "version": "2.3.0",
+      "path": "plugins/Advize-PlantEasily-2.2.0/Advize_PlantEasily.dll",
+      "sha256": "62f92e8c23ddf3ec6c15f077f981f25048dbfe9803eddd39d071fca7362b8224",
+      "size": 76288,
+      "version": "2.2.0",
       "guid": "advize.PlantEasily"
     },
     {
-      "path": "plugins/Advize-PlantEasily-2.3.0/CHANGELOG.md",
-      "sha256": "fc802e71c75735f129ba3bd058d7ca7fe8ea1df71eab7fe41715a0c25f30ba1e",
-      "size": 12419
+      "path": "plugins/Advize-PlantEasily-2.2.0/CHANGELOG.md",
+      "sha256": "a1f28b916a6f8899e34db130e12ee72d29ff6c12a5f243f7a362750124a0a0b9",
+      "size": 11577
     },
     {
-      "path": "plugins/Advize-PlantEasily-2.3.0/icon.png",
+      "path": "plugins/Advize-PlantEasily-2.2.0/icon.png",
       "sha256": "d797e4b72b683632c8c546889f068f1d5437a8e2b0500775d56d726c6ebc90f8",
       "size": 150557
     },
     {
-      "path": "plugins/Advize-PlantEasily-2.3.0/manifest.json",
-      "sha256": "8f93c6c11d7861cfc479955ccc2fddae1f01089fd4c15337e6fa70fb5ff34348",
-      "size": 470
+      "path": "plugins/Advize-PlantEasily-2.2.0/manifest.json",
+      "sha256": "d99d2fd3875c198d5c4963347ba363fd4011cf6cdcbdf727a2670ad82c792b76",
+      "size": 462
     },
     {
-      "path": "plugins/Advize-PlantEasily-2.3.0/README.md",
-      "sha256": "3ce938f697638e76a3f34c91f290a0563251d1b43e3d41961aa2f9145e811912",
-      "size": 6845
+      "path": "plugins/Advize-PlantEasily-2.2.0/README.md",
+      "sha256": "fb16dc9b7e8eb78d958a5b6329228bfc2761a5e360a097bfbb8f3d744e5209be",
+      "size": 6364
     },
     {
-      "path": "plugins/Advize-PlantEverything-1.21.3/Advize_PlantEverything.dll",
-      "sha256": "313d57d5d9df2a27bff04ab184487d544a0749bbbe2c10cb1c41a0ae964cac62",
-      "size": 260096,
-      "version": "1.21.3",
+      "path": "plugins/Advize-PlantEverything-1.21.2/Advize_PlantEverything.dll",
+      "sha256": "0969f4f8b949eb7ce4f271166ad63167f408f75657c47761e8f91acd379698b7",
+      "size": 258560,
+      "version": "1.21.2",
       "guid": "advize.PlantEverything"
     },
     {
-      "path": "plugins/Advize-PlantEverything-1.21.3/CHANGELOG.md",
-      "sha256": "683bea7466d4aa0d5d61465a4ff935d70ce2d4acfcd78b1ed84336463de5034f",
-      "size": 17013
+      "path": "plugins/Advize-PlantEverything-1.21.2/CHANGELOG.md",
+      "sha256": "ae8ba26ce1e9a2a5721a867e238067f405a18aa033178b5ae1a037c8f5f0477c",
+      "size": 16795
     },
     {
-      "path": "plugins/Advize-PlantEverything-1.21.3/icon.png",
+      "path": "plugins/Advize-PlantEverything-1.21.2/icon.png",
       "sha256": "62249b5ca0d20e925eff8153c7f0bc429c39c5618648812f2ec6c982447b6f87",
       "size": 137513
     },
     {
-      "path": "plugins/Advize-PlantEverything-1.21.3/manifest.json",
-      "sha256": "ddb23d4f1b189441cdec171c18686b8c610428fbeada54b5c20fe98892c4490f",
-      "size": 472
+      "path": "plugins/Advize-PlantEverything-1.21.2/manifest.json",
+      "sha256": "e7053bb12d4ef81b52ec33849f1ba03b8ef530310d8ef93f8191695b67a8262f",
+      "size": 464
     },
     {
-      "path": "plugins/Advize-PlantEverything-1.21.3/README.md",
+      "path": "plugins/Advize-PlantEverything-1.21.2/README.md",
       "sha256": "6f737a8967362cb091b587c8537164a139e331586be45a7c05fcc42f4ed64a16",
       "size": 13750
     },
@@ -323,74 +323,74 @@
       "size": 8147
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/CHANGELOG.md",
-      "sha256": "063656e4572bd87d4fba8c3582c4985350aae7b9a4dddb27e30ba4afff7a8840",
-      "size": 11945
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/CHANGELOG.md",
+      "sha256": "c626bfdf0f40ea9790755588db3cfd1a4efdeedb1327e49937f9d3181e77fbcd",
+      "size": 10408
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/ConditionalConfigSync.dll",
-      "sha256": "3f9cd0d2b80ab14d289f4621f25c11c84045919cbad8013955450cf6e662ef4e",
-      "size": 250880,
-      "version": "1.0.10"
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.dll",
+      "sha256": "68f059e2e16a38eee7512c3e2e0263f6f0abe23e899d1776ae8ea5c48540169b",
+      "size": 242176,
+      "version": "1.0.8"
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/ConditionalConfigSync.Plugin.dll",
-      "sha256": "a9508884c9a2dc6e1cf1a4d0c64f996d54a738c17d42f0bce612d4a4efbaf2d5",
-      "size": 13824,
-      "version": "1.0.10",
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.Plugin.dll",
+      "sha256": "2afd0adb6f5ef94a6d838c3a07d1707562cdc6bbcfe904ec1ebf2989703e9651",
+      "size": 7680,
+      "version": "1.0.8",
       "guid": "_shudnal.ConditionalConfigSync"
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/ConditionalConfigSync.xml",
-      "sha256": "ff51e0b3fac5bf3d094f04299677d704b2360004d47ddbe5f071f6ee3066e3f1",
-      "size": 69605
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/ConditionalConfigSync.xml",
+      "sha256": "9a32df85f577c97600c92acfac498c33531b88f5daa71e855c0e54ae80103430",
+      "size": 64797
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/icon.png",
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/icon.png",
       "sha256": "555a06cef15aa933cbf0eceb5edb132b221339a43c1236d3018579805a64325a",
       "size": 119346
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/manifest.json",
-      "sha256": "fd1c0eeb3ea00ef5913b267e4017dba90b25d257418e244929edf30c8f111aeb",
-      "size": 433
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/manifest.json",
+      "sha256": "792734ba0e82e80b4e4bec2ecb02e90d7ce3047cd6936a09863f2576660ab833",
+      "size": 423
     },
     {
-      "path": "plugins/shudnal-ConditionalConfigSync-1.0.10/README.md",
-      "sha256": "2457650e3e7a7ea08e1d87e0092b2204085c5c74d6962aa69712a5df3b2e8c37",
-      "size": 40696
+      "path": "plugins/shudnal-ConditionalConfigSync-1.0.8/README.md",
+      "sha256": "dcb72ab2a7d6050a6a3f732a9cbe4a6db48b5cf2087e72d8bb2083eb0feef825",
+      "size": 33789
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/CHANGELOG.md",
-      "sha256": "747d2e068531fd2e71d2dd0bb3686ca106475a3f8b7d07955d706eb3f3e12177",
-      "size": 6036
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/CHANGELOG.md",
+      "sha256": "6c580dd9c18a54a9de6c4fb69473b64d33db846fefbfee9d8cb5fd42b72f79f7",
+      "size": 4869
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/icon.png",
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/icon.png",
       "sha256": "b638e6f5d8c6a6bc70a588b5eb5358b34b3d94b1bcedec9102aef5ca69445794",
       "size": 80523
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/manifest.json",
-      "sha256": "57e06485b1eb36d4e3d91ae8dbb2f923cdb2a33ccd79f2509fa6efdfb9aaa42f",
-      "size": 608
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/manifest.json",
+      "sha256": "b462ab48ce08452ba692afbaa328af92b00fec6ebfe13ddc30dca85960ccff82",
+      "size": 597
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/Nomap Printer.English.json",
-      "sha256": "c3e9c23575d9b67e3bda06ae97f29c45b9242e78d857c89f625f22c497fe1641",
-      "size": 371
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/Nomap Printer.English.json",
+      "sha256": "23ff18563be2fa40cc83146e2982a862096a402bcaae4756c047f73720d1a7be",
+      "size": 363
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/NomapPrinter.dll",
-      "sha256": "b52e93c8ae9129bd4fd17dea08cd7896db7647bf33c823572a00535403b823b6",
-      "size": 148992,
-      "version": "1.5.8",
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/NomapPrinter.dll",
+      "sha256": "cb3638745951535ead1b2931284ca3f7aaa7fb872be9c257ebb53a8dccaf1818",
+      "size": 140800,
+      "version": "1.5.4",
       "guid": "shudnal.NomapPrinter"
     },
     {
-      "path": "plugins/shudnal-NomapPrinter-1.5.8/README.md",
-      "sha256": "5c84116f840b04c2ae3a3f1bff99de6e4d477d30787ae3e987db0f41f0f86544",
-      "size": 11906
+      "path": "plugins/shudnal-NomapPrinter-1.5.4/README.md",
+      "sha256": "ce48a4aabf773aa0f79798af5bc40cc6e631cd563ad55f0acefdea6cbd681948",
+      "size": 10447
     },
     {
       "path": "plugins/TastyChickenLegs-BetterCarts-1.1.1/BetterCarts.dll",
@@ -481,46 +481,46 @@
       "guid": "Tastychickenlegs.TimedTorchesStayLit"
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/icon.png",
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/icon.png",
       "sha256": "e17593e4992c576719c4417419b19e6e0510dd8e14178b602bc503b49ce76fa5",
       "size": 124110
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/manifest.json",
-      "sha256": "c3ea8e56a846d6d9ff5c6aeb33a187d6242c7fe9c212fe58ca4a5c52f481c8dd",
-      "size": 366
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/manifest.json",
+      "sha256": "db4c4467491ca566f6dedb554991940c65272bbd20c8405a8e0b6bb39163405e",
+      "size": 342
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/README.md",
-      "sha256": "b4356ed7c96559366f5a52a87acf6d3caf2ba7213f664cee3ba5399fe5ff1c74",
-      "size": 4001
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/README.md",
+      "sha256": "f2743d91a28f4bf8f1577d71409d80ade1ea7409395398bd4b2e0aba83aca253",
+      "size": 3137
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/TreesReborn.dll",
-      "sha256": "1cc93e56dff8d5823470d6010d3b5e0feca562d62f8467064c11c9a9fb9287c8",
-      "size": 61440,
-      "version": "1.1.6",
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/TreesReborn.dll",
+      "sha256": "7ec4769e9bd3b462c457027ca70f2a6194aaa1c8b60f4cab519faca025fef313",
+      "size": 60928,
+      "version": "1.1.3",
       "guid": "TastyChickenLegs.TreesReborn"
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict.json",
-      "sha256": "26700c195e402117e46721a8ab196e41eedd1f145afabf8116260db7762e2333",
-      "size": 656
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict.json",
+      "sha256": "29c60c9147a584b8ae97f827d02a3e072960d5b60989794d7fa0ee4d9eb88047",
+      "size": 232
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict_Plant_all_trees.json",
-      "sha256": "d2ec3c48784e8a8e92d3961bc2e4cee30df517dbdcb2ec31f7772e0a5d3f7c4c",
-      "size": 401
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_Plant_all_trees.json",
+      "sha256": "b67abebaf745f5cc556076d0e7ee6d8cd065d04e9e8ce14c542208a01a9019f9",
+      "size": 308
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict_Plant_Everything.json",
-      "sha256": "2107efa31cab93002d514fc5772eb591139498be349006a276696facc26f127e",
-      "size": 657
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_Plant_Everything.json",
+      "sha256": "b51ffac80f44ab6d5c588833b804e371efce84c7036ff7e527fb119a18c5944f",
+      "size": 308
     },
     {
-      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict_PlantingPlus.json",
-      "sha256": "8f6b4c908f3134e96dbf2f946f547ec85723776b045de977db61c2537b7bb516",
-      "size": 389
+      "path": "plugins/TastyChickenLegs-TreesReborn-1.1.3/plugins/configs/tree_dict_PlantingPlus.json",
+      "sha256": "02a6d625f690e3fb7693c0e6a73f9e33e7280f8f7e080fd7e068ad8e9d9c16f6",
+      "size": 298
     },
     {
       "path": "plugins/turbero-ForsakenPowersPlusRemastered-2.0.4/CHANGELOG.md",
