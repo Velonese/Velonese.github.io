@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.9",
+  "packVersion": "1.1.10",
   "archive": {
-    "url": "pack-3b262e0862e3.zip",
-    "sha256": "3b262e0862e377e14f357948b602ad82041e832d0f73e32f7abdc95fa75a3959",
-    "size": 5697177
+    "url": "pack-57811cbfbf08.zip",
+    "sha256": "57811cbfbf08569a13a1f3974d55c93e1c6b80f7f7e35c13dc906b9eb98525ad",
+    "size": 5692588
   },
   "files": [
     {
@@ -550,36 +550,36 @@
       "size": 3120
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/CHANGELOG.md",
-      "sha256": "ac19eaf4179dfab5f619e341f4ae7b7b0e87adb16133e661476ffcc6bd32113a",
-      "size": 51934
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/CHANGELOG.md",
+      "sha256": "89cd94454d33248f21db87f031ddae30abeb306c047e4f4fb541244974df2229",
+      "size": 51076
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/icon.png",
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/icon.png",
       "sha256": "a26b769c9170e42d7ba346866848d25925d4e833181d4bc3fa6c39c95544bb0c",
       "size": 107943
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/manifest.json",
-      "sha256": "0a56b4e0245ce7eda994368ae679fbd1c4d6b0a9585015a83176f061afd491bb",
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/manifest.json",
+      "sha256": "fd2e210631f12aa517a495cb131d7a8e02680e35bd7a76e3f54a983cdf409595",
       "size": 464
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/README.md",
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/README.md",
       "sha256": "8a391fabbbf57c3c9c982da13b69485455c37f45ec2d22297481d8a17f700a32",
       "size": 10145
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/plugins/Jotunn.dll",
-      "sha256": "9509221046842a70f94b98bab4cb41005dee026823a7a79345829ed46a30f796",
-      "size": 526336,
-      "version": "2.30.2",
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.dll",
+      "sha256": "51d32cfbe2db5c203ffb8855c155d185d572dda72db49066905679d8ec5e3c46",
+      "size": 516608,
+      "version": "2.30.0",
       "guid": "com.jotunn.jotunn"
     },
     {
-      "path": "plugins/ValheimModding-Jotunn-2.30.2/plugins/Jotunn.xml",
-      "sha256": "f1514f61744160645cf503b7286ca1f9198fbbeb4caa38dfeb8f4adab39021dc",
-      "size": 519875
+      "path": "plugins/ValheimModding-Jotunn-2.30.0/plugins/Jotunn.xml",
+      "sha256": "9825a1441790b54459c5f08ada4d26032bec1523ce1d337581bdf39d053291a3",
+      "size": 501055
     },
     {
       "path": "plugins/ValheimModding-YamlDotNet-16.3.1/icon.png",
@@ -642,25 +642,25 @@
       "guid": "velonese.buyfrostgates"
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.1/CHANGELOG.md",
-      "sha256": "231ab66a0feba513cf9393fc24becbaf1702f4e50c076c4a506f2be2b4d69010",
-      "size": 1117
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.2/CHANGELOG.md",
+      "sha256": "22d599d2172573f5e553620cdf33cc8af49a9ba0ae4ce2d66cdb530683c418c5",
+      "size": 1393
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.1/manifest.json",
-      "sha256": "1e71ba4dfab53cc9228566844d5d89821cef595e1e57041906af1e136b23f32f",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.2/manifest.json",
+      "sha256": "39145f3c4167488504ecadd7bdfdb776f119c1a769be2e72b22b5b3b4a78f9d1",
       "size": 290
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.1/README.md",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.2/README.md",
       "sha256": "e1fabe3e61026903f6c78cef047b92021c4078e04921e9b23e61e5e36664fdd8",
       "size": 3795
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.1/plugins/HalsteinsUnpacker.dll",
-      "sha256": "8b3ace99f5724a7576021e49585094d92c1723f123694aced70d5b9ff3d58706",
-      "size": 51200,
-      "version": "1.1.1",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.2/plugins/HalsteinsUnpacker.dll",
+      "sha256": "3b78998e95255f468fc56e0f9f070b714e8f0ba38dbfb5abc2e65b30ed270268",
+      "size": 53248,
+      "version": "1.1.2",
       "guid": "velonese.halsteinsunpacker"
     },
     {
