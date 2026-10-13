@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.13",
+  "packVersion": "1.1.14",
   "archive": {
-    "url": "pack-103c3be616ce.zip",
-    "sha256": "103c3be616ce79d926bd3a4a32fd96eefeb10227a8ccd8a00780274a45a6da10",
-    "size": 5675273
+    "url": "pack-36cfc12d4631.zip",
+    "sha256": "36cfc12d4631cff9101b034e26d4357903ffccb82bdc4d26354658bc55dbab75",
+    "size": 5675514
   },
   "files": [
     {
@@ -642,25 +642,25 @@
       "guid": "velonese.buyfrostgates"
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.4/CHANGELOG.md",
-      "sha256": "baf6f165f8c1be4271684fc6712c74b6ad602e835750001c5119e7907b03d505",
-      "size": 2099
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.5/CHANGELOG.md",
+      "sha256": "360542fe63f891fd26b9cc2cdfafb1082ae6f0248fb0a1f13e82523289f6d489",
+      "size": 2415
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.4/manifest.json",
-      "sha256": "e8ee36211f49b5c31b0ce5fbb71d9bdeb60cc6a4e58d94f4ecc1c8fb437c90f0",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.5/manifest.json",
+      "sha256": "a9b8c35f7d40d8365bd7e929b933f2239ecdbc150a64e4cbfaa5e7b87e5ebbfa",
       "size": 290
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.4/README.md",
-      "sha256": "e1fabe3e61026903f6c78cef047b92021c4078e04921e9b23e61e5e36664fdd8",
-      "size": 3795
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.5/README.md",
+      "sha256": "6b589a833e595e743efdaee48ed94ffe57dcae3410a857270492de696138c969",
+      "size": 3953
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.4/plugins/HalsteinsUnpacker.dll",
-      "sha256": "811060220933d0de23f12b5066ba3944516643d4995c7fea2686271ad005b83d",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.1.5/plugins/HalsteinsUnpacker.dll",
+      "sha256": "6c5aded2bfba66cff5a03492efa1a73c853917abd66abfbd6ef94912fdf62080",
       "size": 54784,
-      "version": "1.1.4",
+      "version": "1.1.5",
       "guid": "velonese.halsteinsunpacker"
     },
     {
