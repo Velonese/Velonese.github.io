@@ -1,9 +1,9 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.20",
+  "packVersion": "1.1.21",
   "archive": {
-    "url": "pack-0010bc89e138.zip",
-    "sha256": "0010bc89e138ed28a8f1e80b4c124cbc24ee83c347f0675fd04c7ca04b861355",
+    "url": "pack-554d734f846e.zip",
+    "sha256": "554d734f846e019f9285139aafb35de04b5a59900565c88b241fe947283b0ace",
     "size": 5711199
   },
   "files": [
