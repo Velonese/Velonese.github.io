@@ -2,9 +2,9 @@
   "packName": "Jokulhlaup",
   "packVersion": "1.1.20",
   "archive": {
-    "url": "pack-877d87ff9d4b.zip",
-    "sha256": "877d87ff9d4b5fe61aae3e91d8e52506bfd31451fc4369b3df2b19463e0edcc9",
-    "size": 5711202
+    "url": "pack-0010bc89e138.zip",
+    "sha256": "0010bc89e138ed28a8f1e80b4c124cbc24ee83c347f0675fd04c7ca04b861355",
+    "size": 5711199
   },
   "files": [
     {
@@ -766,12 +766,12 @@
     },
     {
       "path": "config/shudnal.AutoPinSigns.cfg",
-      "sha256": "da46e0cfad600540c4b1465140435ba66bd5450d9055fbd78eb0a5f01ae280de",
-      "size": 6996
+      "sha256": "917e0e9bb1d3a4874f508fcd9f1fa62b6b7cae84948ecdedfd8c15ddd46f596d",
+      "size": 6995
     },
     {
       "path": "config/shudnal.NomapPrinter.cfg",
-      "sha256": "7bfaedb75dddc7b050274230f9144885480819ea4d5f12716663462eea6a2464",
+      "sha256": "d52f7a69bfbdbdb63630f3944c683cb8540c646e4e4a18dcc87376540303107b",
       "size": 11859
     },
     {
