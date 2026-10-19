@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.19",
+  "packVersion": "1.1.20",
   "archive": {
-    "url": "pack-f2a17c20b667.zip",
-    "sha256": "f2a17c20b66731c5c9522ae68152a8be6c0371a360906e6fa13b22205cd17dc6",
-    "size": 5705936
+    "url": "pack-877d87ff9d4b.zip",
+    "sha256": "877d87ff9d4b5fe61aae3e91d8e52506bfd31451fc4369b3df2b19463e0edcc9",
+    "size": 5711202
   },
   "files": [
     {
@@ -715,9 +715,14 @@
       "guid": "velonese.trophyhunter"
     },
     {
+      "path": "config/advize.PlantEasily.cfg",
+      "sha256": "807467dc4513c56d06cf16f374d849bfe7c580bfdb29de46d200af4723da3f6a",
+      "size": 9831
+    },
+    {
       "path": "config/advize.PlantEverything.cfg",
-      "sha256": "92115ad1a1cdf232173e1a2a84f867dc15b025b484210af1975f5fea85739c1c",
-      "size": 24026
+      "sha256": "a06a56617d1b92d00b601fed676d85c15f0f082b27c949309d623a3316ed1437",
+      "size": 24036
     },
     {
       "path": "config/aedenthorn.HoeRadius.cfg",
@@ -736,13 +741,13 @@
     },
     {
       "path": "config/blacks7ar.VikingsDoSwim.cfg",
-      "sha256": "908f116d59fe42bfb91d7e987ac07f280e18b0e29ee71ee843b1cfd188e6256f",
+      "sha256": "fedd279dc7f19701732bf35232703002b59283072ef21154081cd3eece2feae4",
       "size": 16607
     },
     {
       "path": "config/blacks7ar.WieldEquipmentWhileSwimming.cfg",
-      "sha256": "c833fbeb36da240018c5114da33e60018623d3cfc715b115b99086965b9cad2f",
-      "size": 888
+      "sha256": "f8700f2f3ffaac7a830bce1c4e90f4d700bc0545b4379d8636d78d81f6a2d1cb",
+      "size": 957
     },
     {
       "path": "config/dev.crystal.cleartheair.cfg",
@@ -761,13 +766,13 @@
     },
     {
       "path": "config/shudnal.AutoPinSigns.cfg",
-      "sha256": "c62e643ba5cbd5cc91061353502d8856d4fbb67217ae10151a68445a4613842a",
-      "size": 6961
+      "sha256": "da46e0cfad600540c4b1465140435ba66bd5450d9055fbd78eb0a5f01ae280de",
+      "size": 6996
     },
     {
       "path": "config/shudnal.NomapPrinter.cfg",
-      "sha256": "9986386da65f59889512591ebb0388e21d5c41d8ec17fd0041b816310c4dfca7",
-      "size": 11290
+      "sha256": "7bfaedb75dddc7b050274230f9144885480819ea4d5f12716663462eea6a2464",
+      "size": 11859
     },
     {
       "path": "config/TastyChickenLegs.BetterCarts.cfg",
@@ -786,8 +791,8 @@
     },
     {
       "path": "config/TastyChickenLegs.TreesReborn.cfg",
-      "sha256": "1d353a20b467d6566e5e5e6587037cb37f6b19ca2c75f38769f97313af228f30",
-      "size": 1344
+      "sha256": "3fb6556c50820761e4421593c5dd60305ecaa1170a6d20855b0ff2bc732ce601",
+      "size": 1451
     },
     {
       "path": "config/Turbero.ForsakenPowersPlusRemastered.cfg",
@@ -800,9 +805,19 @@
       "size": 11531
     },
     {
+      "path": "config/velonese.halsteinsunpacker.cfg",
+      "sha256": "e741371de046e00db3fb8df4c8b86e906e39329441a776844d8d3a850c144d70",
+      "size": 1974
+    },
+    {
       "path": "config/velonese.stronkpiles.cfg",
       "sha256": "08be75b50869bd36d43625d6094b93b1ed63b246a8143ac2a3de60c10d46a262",
       "size": 966
+    },
+    {
+      "path": "config/velonese.trophyhunter.cfg",
+      "sha256": "4da299b0e3612f42373b0c7a4034799b659bcbd4e9e5c1b49cedab677d87ca07",
+      "size": 9832
     },
     {
       "path": "config/PlantEverything/advize.PlantEverything.cfg",
