@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.22",
+  "packVersion": "1.1.23",
   "archive": {
-    "url": "pack-a2ed6317373f.zip",
-    "sha256": "a2ed6317373f0bfdbc89981e30b7e6095e7376da632b0cdcf0375929ca609fb9",
-    "size": 5711352
+    "url": "pack-88411937e04d.zip",
+    "sha256": "88411937e04d86129c6d4c718d5922b2c5820da08a1cb793518a5206693e54bf",
+    "size": 5746105
   },
   "files": [
     {
@@ -640,6 +640,28 @@
       "size": 35328,
       "version": "1.0.1",
       "guid": "velonese.buyfrostgates"
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.0/CHANGELOG.md",
+      "sha256": "368b7df50a404c8e85aa6f7a75e8f216b6d54a56283a23852b940eb4d5ba85c7",
+      "size": 72
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.0/manifest.json",
+      "sha256": "c0513a379ce986242fe8f49774a6a434b5f9d0f2b5b9cc99aa93b3446844b539",
+      "size": 207
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.0/README.md",
+      "sha256": "69ebcccd23ec49811bd6d80730185d3c3c1c8d7474e8f8ecef91ea1c4bffb462",
+      "size": 1201
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.0/plugins/FreyrsCultivator.dll",
+      "sha256": "8f7c84833949b01f10a6bb0635b1644283923091ebe1f135e04ec100427eaa23",
+      "size": 180736,
+      "version": "1.0.0",
+      "guid": "velonese.freyrscultivator"
     },
     {
       "path": "plugins/Velonese-HalsteinsUnpacker-1.2.2/CHANGELOG.md",
