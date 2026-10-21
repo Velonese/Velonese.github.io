@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.24",
+  "packVersion": "1.1.25",
   "archive": {
-    "url": "pack-99aa3f1dba60.zip",
-    "sha256": "99aa3f1dba60e98af659621e0298cea331e11261a095011e39d44da3812b2697",
-    "size": 5745428
+    "url": "pack-e1c9e5f2e6fa.zip",
+    "sha256": "e1c9e5f2e6fa8eb04d40078fb5f4b0615da008eb741b2c7dcd79fb9a9729ece0",
+    "size": 5746215
   },
   "files": [
     {
@@ -41,6 +41,28 @@
       "guid": "com.ValheimModding.YamlDotNetDetector"
     },
     {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.2/CHANGELOG.md",
+      "sha256": "731733b0d5ce0b49c8695d8ee70cf7d78d4a573a35507b960b633c9589221918",
+      "size": 383
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.2/manifest.json",
+      "sha256": "0a4f983946b9f236e77bb4e1c109dd94ee7b09e0e286468923516bc83acfecd3",
+      "size": 207
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.2/README.md",
+      "sha256": "9545a04a24ba4a2628687ba63f430e92e2c3ce44ba1b8f3b83971b7813977cb0",
+      "size": 1361
+    },
+    {
+      "path": "plugins/Velonese-FreyrsCultivator-1.0.2/plugins/FreyrsCultivator.dll",
+      "sha256": "71e03c2fd0de70e94470566192aa1898e9c2331685949778b6f91ad5cd6059ab",
+      "size": 182784,
+      "version": "1.0.2",
+      "guid": "velonese.freyrscultivator"
+    },
+    {
       "path": "plugins/Velonese-TrophyHunter-1.0.0/CHANGELOG.md",
       "sha256": "f24915565c356b5e5cabb629d781a5ba3a82cbd916ed623ca76070c8cb8452ef",
       "size": 309
@@ -68,28 +90,6 @@
       "size": 5120,
       "version": "1.0.1",
       "guid": "com.hungryfish.DEADBEEF-DEAD-CAFE-FEED-DEFACEDECODE"
-    },
-    {
-      "path": "plugins/Velonese-FreyrsCultivator-1.0.1/CHANGELOG.md",
-      "sha256": "d7430c001030e9ac5e90a4d326596296c8c5da0231f5cfa5cd51fb16b023ac8a",
-      "size": 272
-    },
-    {
-      "path": "plugins/Velonese-FreyrsCultivator-1.0.1/manifest.json",
-      "sha256": "5195f8f65a3b3d5544aa7e1ba927cdcaeff1f12af1185155d2e45f1ba2855a10",
-      "size": 207
-    },
-    {
-      "path": "plugins/Velonese-FreyrsCultivator-1.0.1/README.md",
-      "sha256": "69ebcccd23ec49811bd6d80730185d3c3c1c8d7474e8f8ecef91ea1c4bffb462",
-      "size": 1201
-    },
-    {
-      "path": "plugins/Velonese-FreyrsCultivator-1.0.1/plugins/FreyrsCultivator.dll",
-      "sha256": "5826761c4476583a5e5d9c7c33b4c17144179407e6a342e5e333bc564969aaa4",
-      "size": 180736,
-      "version": "1.0.1",
-      "guid": "velonese.freyrscultivator"
     },
     {
       "path": "plugins/RandyKnapp-EquipmentAndQuickSlots-3.1.3/CHANGELOG.md",
