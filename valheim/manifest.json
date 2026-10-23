@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.25",
+  "packVersion": "1.1.26",
   "archive": {
-    "url": "pack-e1c9e5f2e6fa.zip",
-    "sha256": "e1c9e5f2e6fa8eb04d40078fb5f4b0615da008eb741b2c7dcd79fb9a9729ece0",
-    "size": 5746215
+    "url": "pack-0676fd64b9dd.zip",
+    "sha256": "0676fd64b9ddc695b661cd703dc17bca139f6cd5a7426c0dbd54f6a818035ba7",
+    "size": 5781860
   },
   "files": [
     {
@@ -117,33 +117,6 @@
       "size": 416256,
       "version": "3.1.3",
       "guid": "randyknapp.mods.equipmentandquickslots"
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.0.1/CHANGELOG.md",
-      "sha256": "b2b2176b79f00e335304d4ed128c4b715d86ec15e14d66b5661d0a5679bed32b",
-      "size": 524
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.0.1/icon.png",
-      "sha256": "94bf56fe71729e1b0c5694e6a73286c465a044de4480bf3f9adf63bc17b0098d",
-      "size": 4964
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.0.1/manifest.json",
-      "sha256": "f91c8a0dca852754e785fca2283cf9fbb26b92bfb1f23c4b7cf0787a1c3186a7",
-      "size": 261
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.0.1/README.md",
-      "sha256": "02d9d7c2410046c9fc2f686c9e4eb8dbd70f5d1bd12366efdff37e56486695cc",
-      "size": 5091
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.0.1/plugins/BuyfrostGates.dll",
-      "sha256": "f838bc523eb04f60e8ca9c17b71d86d314baee1ff0e79fdb344429fb35f180b0",
-      "size": 35328,
-      "version": "1.0.1",
-      "guid": "velonese.buyfrostgates"
     },
     {
       "path": "plugins/Advize-PlantEverything-1.21.3/Advize_PlantEverything.dll",
@@ -286,25 +259,25 @@
       "size": 11906
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.2.2/CHANGELOG.md",
-      "sha256": "34cd4a580d860d217985f3e2ab6887e86e8c80cef7b4e4d394865e5ff0196f86",
-      "size": 3453
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.3.0/CHANGELOG.md",
+      "sha256": "a3bd386e2c207ec245f44cfad958565c84b4ce9b0d6e840bdb9ec3457e0613a9",
+      "size": 3855
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.2.2/manifest.json",
-      "sha256": "dc03b8e7bd6b80e3bf4c87bbd38b385cb34e127bdfb2d6fa3b242188f33c68ae",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.3.0/manifest.json",
+      "sha256": "ac5b88b6558f74479e167c4f8160fdd9a269108268da418ab23478b6301974fc",
       "size": 290
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.2.2/README.md",
-      "sha256": "689210d8e29ffdb98101dde5f32b86f0007f6862c5440e1a8e7067589f391d73",
-      "size": 4095
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.3.0/README.md",
+      "sha256": "1364507785499e8ce9dfd8424099771aa088778769fd8f185111132217941e34",
+      "size": 4303
     },
     {
-      "path": "plugins/Velonese-HalsteinsUnpacker-1.2.2/plugins/HalsteinsUnpacker.dll",
-      "sha256": "cfd174f4291dfe1aab12eb86a075897fcbb20c97bc499d78669525de6ef27303",
-      "size": 59904,
-      "version": "1.2.2",
+      "path": "plugins/Velonese-HalsteinsUnpacker-1.3.0/plugins/HalsteinsUnpacker.dll",
+      "sha256": "55de47a9d92f3d4997bbc2c1916009cea18424456cf7a9718cb2448bdc1d0b7a",
+      "size": 99328,
+      "version": "1.3.0",
       "guid": "velonese.halsteinsunpacker"
     },
     {
@@ -513,6 +486,33 @@
       "path": "plugins/ValheimModding-Jotunn-2.30.2/plugins/Jotunn.xml",
       "sha256": "f1514f61744160645cf503b7286ca1f9198fbbeb4caa38dfeb8f4adab39021dc",
       "size": 519875
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.1.0/CHANGELOG.md",
+      "sha256": "9613fbd6fc2545066ffadbbe4846b52e648f6ecd01378820f5941d0e7148b3f4",
+      "size": 1064
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.1.0/icon.png",
+      "sha256": "94bf56fe71729e1b0c5694e6a73286c465a044de4480bf3f9adf63bc17b0098d",
+      "size": 4964
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.1.0/manifest.json",
+      "sha256": "28c9d0990da64174d106259e6f6d61b6428dd6c3323cd0c8cf6dde6a315a6317",
+      "size": 261
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.1.0/README.md",
+      "sha256": "1d27b0d8290bcc34aee896b8de31996e0cc0938f28657908e64782908fb22d77",
+      "size": 5434
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.1.0/plugins/BuyfrostGates.dll",
+      "sha256": "670a8a64ff6bf5953585e25e0426c99ada819a4a0f608b48c4dd395001c2a0c8",
+      "size": 71680,
+      "version": "1.1.0",
+      "guid": "velonese.buyfrostgates"
     },
     {
       "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/AzuCraftyBoxes.dll",
@@ -796,8 +796,8 @@
     },
     {
       "path": "config/TastyChickenLegs.CandlesForever.cfg",
-      "sha256": "0db07c5acea2aa267c4f165644deb3d2744c00ae1570858bb405bafe290112d1",
-      "size": 580
+      "sha256": "6bb099bf3f49ee45e3eb1f6358d76c4380cc4da6e8afd279f0e1cc60ad5d164d",
+      "size": 579
     },
     {
       "path": "config/Tastychickenlegs.TimedTorchesStayLit.cfg",
