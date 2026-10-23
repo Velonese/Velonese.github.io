@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.26",
+  "packVersion": "1.1.27",
   "archive": {
-    "url": "pack-0676fd64b9dd.zip",
-    "sha256": "0676fd64b9ddc695b661cd703dc17bca139f6cd5a7426c0dbd54f6a818035ba7",
-    "size": 5781860
+    "url": "pack-a6da24939dee.zip",
+    "sha256": "a6da24939dee672ad092abf3e799bedef1a1c48878a52e20f59e782b0fef811b",
+    "size": 5781859
   },
   "files": [
     {
@@ -716,8 +716,8 @@
     },
     {
       "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict_Plant_Everything.json",
-      "sha256": "2107efa31cab93002d514fc5772eb591139498be349006a276696facc26f127e",
-      "size": 657
+      "sha256": "e5bf05f0fb8d42099e355b8c52f0dd2efc9812f206a90aeb838c2c14e1c8395e",
+      "size": 578
     },
     {
       "path": "plugins/TastyChickenLegs-TreesReborn-1.1.6/plugins/configs/tree_dict_PlantingPlus.json",
