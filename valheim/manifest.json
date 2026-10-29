@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.28",
+  "packVersion": "1.1.29",
   "archive": {
-    "url": "pack-3e4fd1375922.zip",
-    "sha256": "3e4fd13759227bc78bb0bf1691ccfd81ecdb3fa3fe610813b1bb043155de0d2e",
-    "size": 6896922
+    "url": "pack-7b4a1a1c2964.zip",
+    "sha256": "7b4a1a1c2964294ee4a0580bc3686238c9b16d6c9e944eb496b02e704a590117",
+    "size": 6902952
   },
   "files": [
     {
@@ -454,6 +454,28 @@
       "size": 65536,
       "version": "1.4.0",
       "guid": "Tastychickenlegs.TimedTorchesStayLit"
+    },
+    {
+      "path": "plugins/Velonese-QuietHomelands-1.0.0/CHANGELOG.md",
+      "sha256": "15397ad5542d5f1e5a3aa9cc78e89adb8f4191d3717751e67b0dab1a1a8d2e59",
+      "size": 149
+    },
+    {
+      "path": "plugins/Velonese-QuietHomelands-1.0.0/manifest.json",
+      "sha256": "fc27d0303f99cbe66c05d0afac321abd625d88f66c88940db9e77bd39f54cdff",
+      "size": 311
+    },
+    {
+      "path": "plugins/Velonese-QuietHomelands-1.0.0/README.md",
+      "sha256": "27773c23fe7c7041341a59960d63210abb8f07dc591a7813db425989d20dffaf",
+      "size": 1098
+    },
+    {
+      "path": "plugins/Velonese-QuietHomelands-1.0.0/plugins/QuietHomelands.dll",
+      "sha256": "dea79327bda1ef0cbcb58e718ec8ad59949955151685bc6c38bb5fbba6a43065",
+      "size": 9216,
+      "version": "1.0.0",
+      "guid": "velonese.quiethomelands"
     },
     {
       "path": "plugins/ValheimModding-Jotunn-2.30.2/CHANGELOG.md",
