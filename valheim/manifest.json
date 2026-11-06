@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.32",
+  "packVersion": "1.1.33",
   "archive": {
-    "url": "pack-22fac127e6d5.zip",
-    "sha256": "22fac127e6d5c6fdaee58cdba80ec809bbe826df6a41a232f5679d0286ca259d",
-    "size": 6908835
+    "url": "pack-24556983911d.zip",
+    "sha256": "24556983911d3a0bf522089bb0710535f717b40c5b608f202a2d8802601c872a",
+    "size": 6909498
   },
   "files": [
     {
@@ -225,6 +225,33 @@
       "path": "plugins/shudnal-AutoPinSigns-2.0.1/README.md",
       "sha256": "639a0cffbb57dffc022b66db97a2aabdf91b7d1b7e344b1732178574854bd75e",
       "size": 8147
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.2.0/CHANGELOG.md",
+      "sha256": "7fd102f3e34e8c40cef59ceee15c16f96453f52ef05027b5bba682a406e1c05c",
+      "size": 1304
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.2.0/icon.png",
+      "sha256": "94bf56fe71729e1b0c5694e6a73286c465a044de4480bf3f9adf63bc17b0098d",
+      "size": 4964
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.2.0/manifest.json",
+      "sha256": "7f7c0d72fd4c469e24932d1f56482172c7553273d12071ef948c0953e69eff65",
+      "size": 261
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.2.0/README.md",
+      "sha256": "c3f87deaad7ac90eb2319fd4c166b48341f7470609c5a57371f97cced1d79f43",
+      "size": 6209
+    },
+    {
+      "path": "plugins/Velonese-BuyfrostGates-1.2.0/plugins/BuyfrostGates.dll",
+      "sha256": "5e7c10a13e13adcb7ff1a55273f5559e04234106861b6f36c81532033d9ee848",
+      "size": 72704,
+      "version": "1.2.0",
+      "guid": "velonese.buyfrostgates"
     },
     {
       "path": "plugins/shudnal-NomapPrinter-1.5.8/CHANGELOG.md",
@@ -508,33 +535,6 @@
       "path": "plugins/ValheimModding-Jotunn-2.30.2/plugins/Jotunn.xml",
       "sha256": "f1514f61744160645cf503b7286ca1f9198fbbeb4caa38dfeb8f4adab39021dc",
       "size": 519875
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.1.0/CHANGELOG.md",
-      "sha256": "9613fbd6fc2545066ffadbbe4846b52e648f6ecd01378820f5941d0e7148b3f4",
-      "size": 1064
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.1.0/icon.png",
-      "sha256": "94bf56fe71729e1b0c5694e6a73286c465a044de4480bf3f9adf63bc17b0098d",
-      "size": 4964
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.1.0/manifest.json",
-      "sha256": "28c9d0990da64174d106259e6f6d61b6428dd6c3323cd0c8cf6dde6a315a6317",
-      "size": 261
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.1.0/README.md",
-      "sha256": "1d27b0d8290bcc34aee896b8de31996e0cc0938f28657908e64782908fb22d77",
-      "size": 5434
-    },
-    {
-      "path": "plugins/Velonese-BuyfrostGates-1.1.0/plugins/BuyfrostGates.dll",
-      "sha256": "670a8a64ff6bf5953585e25e0426c99ada819a4a0f608b48c4dd395001c2a0c8",
-      "size": 71680,
-      "version": "1.1.0",
-      "guid": "velonese.buyfrostgates"
     },
     {
       "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/AzuCraftyBoxes.dll",
@@ -882,8 +882,8 @@
     },
     {
       "path": "config/velonese.buyfrostgates.cfg",
-      "sha256": "365ed5f8704c893d6fcf1bf9eb4fddccafed040f6deef2901decfe600ecfcac4",
-      "size": 11542
+      "sha256": "dde201c945bd971f0201fa9c50698fb89a94359e64e3098b7cb137fc6b22319c",
+      "size": 12658
     },
     {
       "path": "config/velonese.halsteinsunpacker.cfg",
