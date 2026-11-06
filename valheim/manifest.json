@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.33",
+  "packVersion": "1.1.34",
   "archive": {
-    "url": "pack-24556983911d.zip",
-    "sha256": "24556983911d3a0bf522089bb0710535f717b40c5b608f202a2d8802601c872a",
-    "size": 6909498
+    "url": "pack-02e4b8d5d1b7.zip",
+    "sha256": "02e4b8d5d1b74f9a18f73b5a2ff39fb1da8b8fe7c516f67374277563ce00852e",
+    "size": 6913510
   },
   "files": [
     {
@@ -225,6 +225,28 @@
       "path": "plugins/shudnal-AutoPinSigns-2.0.1/README.md",
       "sha256": "639a0cffbb57dffc022b66db97a2aabdf91b7d1b7e344b1732178574854bd75e",
       "size": 8147
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.0/CHANGELOG.md",
+      "sha256": "7c4e8517b2eb29eb8c07103ed2a8d450eba1428502bce88d85b9fe0b8adcb780",
+      "size": 93
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.0/manifest.json",
+      "sha256": "186cd6cd268289ffa979bb9fe6ca4cbd2b9d998c3fe9d007303619ac41104a3b",
+      "size": 234
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.0/README.md",
+      "sha256": "94947e82aa2e27fd11057629944761ec3dde8cef45242e345810b508fd42c65e",
+      "size": 474
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.0/plugins/EternalValheim.dll",
+      "sha256": "6f6b75c1c0800e96cee0da1c5afc013d8267a850516709417a323ffa18c5d62e",
+      "size": 6144,
+      "version": "1.0.0",
+      "guid": "velonese.eternalvalheim"
     },
     {
       "path": "plugins/Velonese-BuyfrostGates-1.2.0/CHANGELOG.md",
@@ -882,8 +904,8 @@
     },
     {
       "path": "config/velonese.buyfrostgates.cfg",
-      "sha256": "dde201c945bd971f0201fa9c50698fb89a94359e64e3098b7cb137fc6b22319c",
-      "size": 12658
+      "sha256": "23d5ac4b3ef49cea2c22182513cf1cd3ebedded713c22cb601724f9d144fd4e1",
+      "size": 12650
     },
     {
       "path": "config/velonese.halsteinsunpacker.cfg",
