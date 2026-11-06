@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.31",
+  "packVersion": "1.1.32",
   "archive": {
-    "url": "pack-96ed48c0c01a.zip",
-    "sha256": "96ed48c0c01ac47efb55a0590fd57b39f871a6822d8eb830c6007148bd02be11",
-    "size": 6908843
+    "url": "pack-22fac127e6d5.zip",
+    "sha256": "22fac127e6d5c6fdaee58cdba80ec809bbe826df6a41a232f5679d0286ca259d",
+    "size": 6908835
   },
   "files": [
     {
@@ -822,7 +822,7 @@
     },
     {
       "path": "config/blacks7ar.VikingsDoSwim.cfg",
-      "sha256": "fedd279dc7f19701732bf35232703002b59283072ef21154081cd3eece2feae4",
+      "sha256": "b7591ad9336b97caa8a95378b5127517d88872a50d225d3cb9cbb43c90811e77",
       "size": 16607
     },
     {
@@ -882,8 +882,8 @@
     },
     {
       "path": "config/velonese.buyfrostgates.cfg",
-      "sha256": "50b05bd0bcbde8617b1a79718a6af1c583dca10aaa73afd6f034e8588ee47d09",
-      "size": 11531
+      "sha256": "365ed5f8704c893d6fcf1bf9eb4fddccafed040f6deef2901decfe600ecfcac4",
+      "size": 11542
     },
     {
       "path": "config/velonese.halsteinsunpacker.cfg",
