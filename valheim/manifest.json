@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.30",
+  "packVersion": "1.1.31",
   "archive": {
-    "url": "pack-2602b7b7be18.zip",
-    "sha256": "2602b7b7be189e28a2e003dc8cc293f2ca4a48d928816c01e632b62dbbdde3a3",
-    "size": 6908363
+    "url": "pack-96ed48c0c01a.zip",
+    "sha256": "96ed48c0c01ac47efb55a0590fd57b39f871a6822d8eb830c6007148bd02be11",
+    "size": 6908843
   },
   "files": [
     {
@@ -797,13 +797,13 @@
     },
     {
       "path": "config/advize.PlantEasily.cfg",
-      "sha256": "807467dc4513c56d06cf16f374d849bfe7c580bfdb29de46d200af4723da3f6a",
-      "size": 9831
+      "sha256": "a0e0426d9b1a14dba3fc0910aa42e6407751377b988daaba8a6645076035fec9",
+      "size": 9832
     },
     {
       "path": "config/advize.PlantEverything.cfg",
-      "sha256": "a06a56617d1b92d00b601fed676d85c15f0f082b27c949309d623a3316ed1437",
-      "size": 24036
+      "sha256": "d8e8d45fe3951b30954670376640c94ff88f9e0fe521da0ef7269844e3912189",
+      "size": 24035
     },
     {
       "path": "config/aedenthorn.HoeRadius.cfg",
@@ -827,8 +827,8 @@
     },
     {
       "path": "config/blacks7ar.WieldEquipmentWhileSwimming.cfg",
-      "sha256": "f8700f2f3ffaac7a830bce1c4e90f4d700bc0545b4379d8636d78d81f6a2d1cb",
-      "size": 957
+      "sha256": "bd1e92968918c32470d07e36c1fcf55830966f1433492708fa7ebbd3be9c53e1",
+      "size": 970
     },
     {
       "path": "config/dev.crystal.cleartheair.cfg",
@@ -889,6 +889,11 @@
       "path": "config/velonese.halsteinsunpacker.cfg",
       "sha256": "e741371de046e00db3fb8df4c8b86e906e39329441a776844d8d3a850c144d70",
       "size": 1974
+    },
+    {
+      "path": "config/velonese.quiethomelands.cfg",
+      "sha256": "0c3abb0a24c6327b8bef66c4e2de3214d5e61eb575dcadd4757769836128af79",
+      "size": 629
     },
     {
       "path": "config/velonese.stronkpiles.cfg",
