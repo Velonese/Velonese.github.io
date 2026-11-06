@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.34",
+  "packVersion": "1.1.35",
   "archive": {
-    "url": "pack-02e4b8d5d1b7.zip",
-    "sha256": "02e4b8d5d1b74f9a18f73b5a2ff39fb1da8b8fe7c516f67374277563ce00852e",
-    "size": 6913510
+    "url": "pack-68ae265f94cc.zip",
+    "sha256": "68ae265f94cc342f7d382c955d460adf6a5ed237d83fc36fa380614cba2d07cd",
+    "size": 6934555
   },
   "files": [
     {
@@ -200,6 +200,28 @@
       "guid": "blacks7ar.WieldEquipmentWhileSwimming"
     },
     {
+      "path": "plugins/Velonese-EternalValheim-1.0.1/CHANGELOG.md",
+      "sha256": "5e4052673b021f83db9a675adbff97c1077c26534c3d2e6a7e159aaaac0e17c7",
+      "size": 287
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.1/manifest.json",
+      "sha256": "382d3e2d6564d8f2b82c33e3f6ddc3d4ac65a5dde0021a75c3744241c5151b50",
+      "size": 265
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.1/README.md",
+      "sha256": "1ad3ff6d743bde101dc436c42184d7432bafe8c4dbf0de7aa07cf548cd2191e1",
+      "size": 976
+    },
+    {
+      "path": "plugins/Velonese-EternalValheim-1.0.1/plugins/EternalValheim.dll",
+      "sha256": "839ace9a8ce988f6f8141b46fd55c23633799435bba0730a1cf2d322877cede2",
+      "size": 49152,
+      "version": "1.0.1",
+      "guid": "velonese.eternalvalheim"
+    },
+    {
       "path": "plugins/shudnal-AutoPinSigns-2.0.1/AutoPinSigns.dll",
       "sha256": "7efecfe59c300a5f509ed56a31d9c02825a8b4c206cbe5ab43e0718996d8b492",
       "size": 68608,
@@ -225,28 +247,6 @@
       "path": "plugins/shudnal-AutoPinSigns-2.0.1/README.md",
       "sha256": "639a0cffbb57dffc022b66db97a2aabdf91b7d1b7e344b1732178574854bd75e",
       "size": 8147
-    },
-    {
-      "path": "plugins/Velonese-EternalValheim-1.0.0/CHANGELOG.md",
-      "sha256": "7c4e8517b2eb29eb8c07103ed2a8d450eba1428502bce88d85b9fe0b8adcb780",
-      "size": 93
-    },
-    {
-      "path": "plugins/Velonese-EternalValheim-1.0.0/manifest.json",
-      "sha256": "186cd6cd268289ffa979bb9fe6ca4cbd2b9d998c3fe9d007303619ac41104a3b",
-      "size": 234
-    },
-    {
-      "path": "plugins/Velonese-EternalValheim-1.0.0/README.md",
-      "sha256": "94947e82aa2e27fd11057629944761ec3dde8cef45242e345810b508fd42c65e",
-      "size": 474
-    },
-    {
-      "path": "plugins/Velonese-EternalValheim-1.0.0/plugins/EternalValheim.dll",
-      "sha256": "6f6b75c1c0800e96cee0da1c5afc013d8267a850516709417a323ffa18c5d62e",
-      "size": 6144,
-      "version": "1.0.0",
-      "guid": "velonese.eternalvalheim"
     },
     {
       "path": "plugins/Velonese-BuyfrostGates-1.2.0/CHANGELOG.md",
@@ -906,6 +906,11 @@
       "path": "config/velonese.buyfrostgates.cfg",
       "sha256": "23d5ac4b3ef49cea2c22182513cf1cd3ebedded713c22cb601724f9d144fd4e1",
       "size": 12650
+    },
+    {
+      "path": "config/velonese.eternalvalheim.cfg",
+      "sha256": "100f8a97b4f04c682723d1423d14622b1de3393109ad6f14973ff09995daf4f7",
+      "size": 327
     },
     {
       "path": "config/velonese.halsteinsunpacker.cfg",
