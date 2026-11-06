@@ -1,10 +1,10 @@
 {
   "packName": "Jokulhlaup",
-  "packVersion": "1.1.29",
+  "packVersion": "1.1.30",
   "archive": {
-    "url": "pack-7b4a1a1c2964.zip",
-    "sha256": "7b4a1a1c2964294ee4a0580bc3686238c9b16d6c9e944eb496b02e704a590117",
-    "size": 6902952
+    "url": "pack-2602b7b7be18.zip",
+    "sha256": "2602b7b7be189e28a2e003dc8cc293f2ca4a48d928816c01e632b62dbbdde3a3",
+    "size": 6908363
   },
   "files": [
     {
@@ -562,6 +562,28 @@
       "path": "plugins/Azumatt-AzuCraftyBoxes-1.8.19/README.md",
       "sha256": "9edf5bb1e60a79928405b30669b170533d07f116da25ed2e24d2cf9bc5aed51e",
       "size": 16102
+    },
+    {
+      "path": "plugins/Velonese-EmpoweredShields-1.0.0/CHANGELOG.md",
+      "sha256": "8e9220065778086c110ccffc2361ceeb57423d684801b88cd6c274c544eea776",
+      "size": 141
+    },
+    {
+      "path": "plugins/Velonese-EmpoweredShields-1.0.0/manifest.json",
+      "sha256": "4a280a74ecf02b070c513d06a4a9c27f5360ff87d84f5be7b88e3a3b87e6aa2e",
+      "size": 326
+    },
+    {
+      "path": "plugins/Velonese-EmpoweredShields-1.0.0/README.md",
+      "sha256": "a2a18da543f5285534faf392e426acaae617e948e2c8dd10acb85e10aef45a10",
+      "size": 911
+    },
+    {
+      "path": "plugins/Velonese-EmpoweredShields-1.0.0/plugins/EmpoweredShields.dll",
+      "sha256": "5277f27939bad96428821d2c99f51dca3b81856413e9c8754f40415b0868e0fa",
+      "size": 8192,
+      "version": "1.0.0",
+      "guid": "velonese.empoweredshields"
     },
     {
       "path": "plugins/TastyChickenLegs-BlastFurnaceTakesAll-1.1.0/BlastFurnaceTakesAll.dll",
